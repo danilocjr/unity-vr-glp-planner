@@ -1,0 +1,1517 @@
+{
+    "nome": "SIMULACAO FROTAS",
+    "presets": {
+        "gasPreset": {
+            "pcs": 9400.0,
+            "pci": 8400.0,
+            "rel_pciPcs": 0.8936170339584351,
+            "m3BtuBasePci": 30.019691467285158,
+            "m3BtuBasePcs": 26.826107025146486,
+            "taxaCompressao": 600.0
+        },
+        "premissasPreset": {
+            "fatorJouleKcal": 4184.0,
+            "fatorBtuJoule": 1055.06005859375,
+            "fatorBtuKwh": 3412.1279296875,
+            "cotacaoDolar": 5.760000228881836,
+            "tma": 5.0,
+            "periodoAmortizacao": 15,
+            "frete": 5.5
+        },
+        "usinaPreset": {
+            "nome": "Usina_Preset",
+            "malha": "",
+            "categoria": "",
+            "potencia": 43000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 8002.9912109375,
+            "demandaDiaPci": 8955.728515625,
+            "demandaDiaM3": 268848.21875,
+            "despacho": 30.0,
+            "demandaAnual": 980652.25,
+            "tipoDeGas": "",
+            "fonteDoGas": "",
+            "coordenadas": {
+                "lat": 0.0,
+                "lon": 0.0
+            }
+        },
+        "fsruPreset": {
+            "nome": "FSRU_Preset",
+            "categoria": "Preset",
+            "coordenadas": {
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                }
+            ],
+            "gnlFornecido": 0.0,
+            "custoUsado": ""
+        },
+        "fsuPreset": {
+            "nome": "FSU_Preset",
+            "terminalRegasDestino": "",
+            "terminalCargaDestino": "",
+            "categoria": "Preset",
+            "coordenadas": {
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                }
+            ],
+            "gnlFornecido": 0.0,
+            "custoUsado": ""
+        },
+        "terminalRegasPreset": {
+            "nome": "TerminalRegas_Preset",
+            "categoria": "",
+            "usina": "Usina_Preset",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                }
+            ],
+            "coordenadas": {
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "coordenadasMarker": {
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "custoUsado": ""
+        },
+        "pePreset": {
+            "nome": "",
+            "categoria": "",
+            "coordenadas": {
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "GasodutoTransporte": ""
+        },
+        "subestacaoPreset": {
+            "nome": "",
+            "tensao": 0.0,
+            "categoria": "",
+            "coordenadas": {
+                "lat": 0.0,
+                "lon": 0.0
+            }
+        },
+        "terminalGNLPreset": {
+            "nome": "",
+            "categoria": "",
+            "custos": [],
+            "coordenadas": {
+                "lat": 0.0,
+                "lon": 0.0
+            }
+        },
+        "gasIntPreset": {
+            "nome": "GasInt_Preset",
+            "fsruOrigem": "",
+            "terminalRegasOrigem": "",
+            "peDestino": "",
+            "custoBase": 100.0,
+            "comprimento": 12.0,
+            "diametro": 24.0,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 28800000.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 2774657.75
+                }
+            ]
+        },
+        "gasDistPreset": {
+            "nome": "GasDist_Preset",
+            "peOrigem": "",
+            "usinaDestino": "Usina_Preset",
+            "consumoM3Mes": 8065446.5,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2597.023681640625,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223864.875
+            }
+        },
+        "gasCrioPreset": {
+            "nome": "GasCrio_Preset",
+            "fsuOrigem": "",
+            "terminalCargaDestino": "",
+            "terminalRegasDestino": "",
+            "custoBase": 200.0,
+            "comprimento": 4.0,
+            "diametro": 24.0,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 19200000.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 1849771.875
+                }
+            ]
+        },
+        "frotaPreset": {
+            "nome": "Frota_Preset",
+            "terminalRegasDestino": "",
+            "terminalGnlOrigem": "",
+            "coordenadasMarker": {
+                "lat": 0.0,
+                "lon": 0.0
+            },
+            "distancia": 88.0,
+            "custos": [
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 171783.578125
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 48.0,
+            "capacidadeEquivGasoso": 28800.0,
+            "recargasDia": 9.335007667541504
+        }
+    },
+    "gas": {
+        "pcs": 9400.0,
+        "pci": 8400.0,
+        "rel_pciPcs": 0.8936170339584351,
+        "m3BtuBasePci": 30.019691467285158,
+        "m3BtuBasePcs": 26.826107025146486,
+        "taxaCompressao": 600.0
+    },
+    "premissas": {
+        "fatorJouleKcal": 4184.0,
+        "fatorBtuJoule": 1055.06005859375,
+        "fatorBtuKwh": 3412.1279296875,
+        "cotacaoDolar": 5.760000228881836,
+        "tma": 5.0,
+        "periodoAmortizacao": 15,
+        "frete": 5.5
+    },
+    "usinasColocadas": [
+        {
+            "nome": "TERMOPARAIBA",
+            "malha": "Santa Rita - São Miguel do Taipu",
+            "categoria": "Simulado",
+            "potencia": 60000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 11166.96484375,
+            "demandaDiaPci": 12496.365234375,
+            "demandaDiaM3": 375137.03125,
+            "despacho": 30.0,
+            "demandaAnual": 1368352.0,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -7.21842098236084,
+                "lon": -34.97378921508789
+            }
+        },
+        {
+            "nome": "CAMPINA GRANDE",
+            "malha": "Nordestão (GUAMARÉ/CABO)",
+            "categoria": "Simulado",
+            "potencia": 40000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 7444.64306640625,
+            "demandaDiaPci": 8330.91015625,
+            "demandaDiaM3": 250091.359375,
+            "despacho": 30.0,
+            "demandaAnual": 912234.625,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -7.404836654663086,
+                "lon": -35.48932266235352
+            }
+        },
+        {
+            "nome": "SUAPE II",
+            "malha": "Pilar-Ipojuca",
+            "categoria": "Simulado",
+            "potencia": 55000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 10236.3837890625,
+            "demandaDiaPci": 11455.0009765625,
+            "demandaDiaM3": 343875.59375,
+            "despacho": 30.0,
+            "demandaAnual": 1254322.625,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -8.358993530273438,
+                "lon": -35.015037536621097
+            }
+        },
+        {
+            "nome": "TERMOCABO",
+            "malha": "GASALP (PILAR/CABO)",
+            "categoria": "Simulado",
+            "potencia": 63000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 11725.3125,
+            "demandaDiaPci": 13121.1826171875,
+            "demandaDiaM3": 393893.84375,
+            "despacho": 30.0,
+            "demandaAnual": 1436769.5,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -8.288248062133789,
+                "lon": -35.03841018676758
+            }
+        },
+        {
+            "nome": "TERMONORDESTE",
+            "malha": "Santa Rita - São Miguel do Taipu",
+            "categoria": "Simulado",
+            "potencia": 50000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 9305.8037109375,
+            "demandaDiaPci": 10413.6376953125,
+            "demandaDiaM3": 312614.1875,
+            "despacho": 30.0,
+            "demandaAnual": 1140293.25,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -7.230025768280029,
+                "lon": -34.97411346435547
+            }
+        },
+        {
+            "nome": "TERMOMANAUS",
+            "malha": "Nordestão (GUAMARÉ/CABO)",
+            "categoria": "Simulado",
+            "potencia": 40000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 7444.64306640625,
+            "demandaDiaPci": 8330.91015625,
+            "demandaDiaM3": 250091.359375,
+            "despacho": 30.0,
+            "demandaAnual": 912234.625,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -7.8338847160339359,
+                "lon": -34.95845031738281
+            }
+        },
+        {
+            "nome": "PAU FERRO I",
+            "malha": "Nordestão (GUAMARÉ/CABO)",
+            "categoria": "Simulado",
+            "potencia": 40000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 7444.64306640625,
+            "demandaDiaPci": 8330.91015625,
+            "demandaDiaM3": 250091.359375,
+            "despacho": 30.0,
+            "demandaAnual": 912234.625,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -7.839993953704834,
+                "lon": -34.981201171875
+            }
+        },
+        {
+            "nome": "PERNAMBUCO III",
+            "malha": "Nordestão (GUAMARÉ/CABO)",
+            "categoria": "Simulado",
+            "potencia": 40000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 7444.64306640625,
+            "demandaDiaPci": 8330.91015625,
+            "demandaDiaM3": 250091.359375,
+            "despacho": 30.0,
+            "demandaAnual": 912234.625,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -7.821428298950195,
+                "lon": -34.993408203125
+            }
+        },
+        {
+            "nome": "POTIGUAR I",
+            "malha": "Nordestão (GUAMARÉ/CABO)",
+            "categoria": "Simulado",
+            "potencia": 43000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 8002.9912109375,
+            "demandaDiaPci": 8955.728515625,
+            "demandaDiaM3": 268848.21875,
+            "despacho": 30.0,
+            "demandaAnual": 980652.25,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -5.899144172668457,
+                "lon": -35.37374496459961
+            }
+        },
+        {
+            "nome": "POTIGUAR III",
+            "malha": "Nordestão (GUAMARÉ/CABO)",
+            "categoria": "Simulado",
+            "potencia": 43000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 8002.9912109375,
+            "demandaDiaPci": 8955.728515625,
+            "demandaDiaM3": 268848.21875,
+            "despacho": 30.0,
+            "demandaAnual": 980652.25,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -5.901848793029785,
+                "lon": -35.35178756713867
+            }
+        },
+        {
+            "nome": "GLOBAL I",
+            "malha": "Candeias - Aratu",
+            "categoria": "Simulado",
+            "potencia": 43000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 8002.9912109375,
+            "demandaDiaPci": 8955.728515625,
+            "demandaDiaM3": 268848.21875,
+            "despacho": 30.0,
+            "demandaAnual": 980652.25,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -12.735196113586426,
+                "lon": -38.47663116455078
+            }
+        },
+        {
+            "nome": "GLOBAL II",
+            "malha": "Candeias - Aratu",
+            "categoria": "Simulado",
+            "potencia": 52000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 9678.0361328125,
+            "demandaDiaPci": 10830.18359375,
+            "demandaDiaM3": 325118.78125,
+            "despacho": 30.0,
+            "demandaAnual": 1185905.125,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -12.745272636413575,
+                "lon": -38.45743179321289
+            }
+        },
+        {
+            "nome": "MARACANAU",
+            "malha": "GASFOR  (UPGN GUAMARÉ/PECEM)",
+            "categoria": "Simulado",
+            "potencia": 45000.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 8375.2236328125,
+            "demandaDiaPci": 9372.2744140625,
+            "demandaDiaM3": 281352.78125,
+            "despacho": 30.0,
+            "demandaAnual": 1026264.0,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -3.853527784347534,
+                "lon": -38.54782104492188
+            }
+        },
+        {
+            "nome": "VIANA",
+            "malha": "GASCAV (Cabiúnas-Vitória)",
+            "categoria": "Simulado",
+            "potencia": 0.0,
+            "eficiencia": 44.0,
+            "heatRate": 7754.83642578125,
+            "demandaDiaPcs": 0.0,
+            "demandaDiaPci": 0.0,
+            "demandaDiaM3": 0.0,
+            "despacho": 30.0,
+            "demandaAnual": 0.0,
+            "tipoDeGas": "",
+            "fonteDoGas": "frota",
+            "coordenadas": {
+                "lat": -20.376367568969728,
+                "lon": -40.452545166015628
+            }
+        }
+    ],
+    "fsruColocados": [],
+    "fsuColocados": [
+        {
+            "nome": "FSU_0",
+            "terminalRegasDestino": "",
+            "terminalCargaDestino": "Terminal de carga do Suape",
+            "terminalGnl": "Suape",
+            "categoria": "Simulado",
+            "coordenadas": {
+                "lat": -8.407025337219239,
+                "lon": -34.96095657348633
+            },
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 100000.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 32000.0
+                }
+            ],
+            "gnlFornecido": 709000000.0,
+            "custoUsado": "opex"
+        }
+    ],
+    "terminaisRegasColocados": [
+        {
+            "nome": "Terminal de Regaseificacao_0",
+            "categoria": "Simulado",
+            "usina": "TERMOPARAIBA",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -7.21842098236084,
+                "lon": -34.97378921508789
+            },
+            "coordenadasMarker": {
+                "lat": -7.217870235443115,
+                "lon": -34.98256301879883
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_1",
+            "categoria": "Simulado",
+            "usina": "CAMPINA GRANDE",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -7.404836654663086,
+                "lon": -35.489322662353519
+            },
+            "coordenadasMarker": {
+                "lat": -7.404285907745361,
+                "lon": -35.49809646606445
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_2",
+            "categoria": "Simulado",
+            "usina": "SUAPE II",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -8.358993530273438,
+                "lon": -35.015037536621097
+            },
+            "coordenadasMarker": {
+                "lat": -8.358444213867188,
+                "lon": -35.02381134033203
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_3",
+            "categoria": "Simulado",
+            "usina": "TERMOCABO",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -8.288248062133789,
+                "lon": -35.03841018676758
+            },
+            "coordenadasMarker": {
+                "lat": -8.287698745727539,
+                "lon": -35.047183990478519
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_4",
+            "categoria": "Simulado",
+            "usina": "TERMONORDESTE",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -7.230025768280029,
+                "lon": -34.97411346435547
+            },
+            "coordenadasMarker": {
+                "lat": -7.229475021362305,
+                "lon": -34.982887268066409
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_5",
+            "categoria": "Simulado",
+            "usina": "TERMOMANAUS",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -7.8338847160339359,
+                "lon": -34.95845031738281
+            },
+            "coordenadasMarker": {
+                "lat": -7.833674907684326,
+                "lon": -34.967872619628909
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_6",
+            "categoria": "Simulado",
+            "usina": "PAU FERRO I",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -7.839993953704834,
+                "lon": -34.981201171875
+            },
+            "coordenadasMarker": {
+                "lat": -7.839595317840576,
+                "lon": -34.990055084228519
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_7",
+            "categoria": "Simulado",
+            "usina": "PERNAMBUCO III",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -7.821428298950195,
+                "lon": -34.993408203125
+            },
+            "coordenadasMarker": {
+                "lat": -7.820878028869629,
+                "lon": -35.00218200683594
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_8",
+            "categoria": "Simulado",
+            "usina": "POTIGUAR I",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -5.899144172668457,
+                "lon": -35.37374496459961
+            },
+            "coordenadasMarker": {
+                "lat": -5.898591995239258,
+                "lon": -35.38251876831055
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_9",
+            "categoria": "Simulado",
+            "usina": "POTIGUAR III",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -5.901848793029785,
+                "lon": -35.35178756713867
+            },
+            "coordenadasMarker": {
+                "lat": -5.901125431060791,
+                "lon": -35.36083984375
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_10",
+            "categoria": "Simulado",
+            "usina": "GLOBAL I",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -12.735196113586426,
+                "lon": -38.47663116455078
+            },
+            "coordenadasMarker": {
+                "lat": -12.734654426574707,
+                "lon": -38.48540496826172
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_11",
+            "categoria": "Simulado",
+            "usina": "GLOBAL II",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -12.745272636413575,
+                "lon": -38.45743179321289
+            },
+            "coordenadasMarker": {
+                "lat": -12.745515823364258,
+                "lon": -38.46604537963867
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_12",
+            "categoria": "Simulado",
+            "usina": "MARACANAU",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10000.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -3.853527784347534,
+                "lon": -38.547821044921878
+            },
+            "coordenadasMarker": {
+                "lat": -3.852973699569702,
+                "lon": -38.55659484863281
+            },
+            "custoUsado": "opex"
+        },
+        {
+            "nome": "Terminal de Regaseificacao_13",
+            "categoria": "Simulado",
+            "usina": "VIANA",
+            "terminalGnl": "",
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                }
+            ],
+            "coordenadas": {
+                "lat": -20.376367568969728,
+                "lon": -40.452545166015628
+            },
+            "coordenadasMarker": {
+                "lat": -20.37584686279297,
+                "lon": -40.46131896972656
+            },
+            "custoUsado": "opex"
+        }
+    ],
+    "peColocados": [],
+    "subestacoesColocadas": [],
+    "terminaisGNLColocados": [],
+    "gasIntColocados": [],
+    "gasDistColocados": [
+        {
+            "nome": "Gasoduto Distribuidor 0",
+            "peOrigem": "PE Santa Rita JP",
+            "usinaDestino": "TERMOPARAIBA",
+            "consumoM3Mes": 11254111.0,
+            "puc": 0.061000000685453418,
+            "prc": 166904.046875,
+            "custoAnualPrc": 2002848.5,
+            "custoAnualPuc": 2780.49072265625,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 348199.46875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 1",
+            "peOrigem": "PE Pedras de Fogo",
+            "usinaDestino": "CAMPINA GRANDE",
+            "consumoM3Mes": 7502741.0,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2415.8359375,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223833.421875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 2",
+            "peOrigem": "PE Suape (GASALP)",
+            "usinaDestino": "SUAPE II",
+            "consumoM3Mes": 10316268.0,
+            "puc": 0.061000000685453418,
+            "prc": 166904.046875,
+            "custoAnualPrc": 2002848.5,
+            "custoAnualPuc": 2548.782958984375,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 348159.25
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 3",
+            "peOrigem": "PE Cabo",
+            "usinaDestino": "TERMOCABO",
+            "consumoM3Mes": 11816815.0,
+            "puc": 0.061000000685453418,
+            "prc": 166904.046875,
+            "custoAnualPrc": 2002848.5,
+            "custoAnualPuc": 2919.51513671875,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 348223.59375
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 4",
+            "peOrigem": "PE Santa Rita JP",
+            "usinaDestino": "TERMONORDESTE",
+            "consumoM3Mes": 9378426.0,
+            "puc": 0.061000000685453418,
+            "prc": 166904.046875,
+            "custoAnualPrc": 2002848.5,
+            "custoAnualPuc": 2317.075439453125,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 348119.0
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 5",
+            "peOrigem": "PE Igarassu",
+            "usinaDestino": "TERMOMANAUS",
+            "consumoM3Mes": 7502741.0,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2415.8359375,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223833.421875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 7",
+            "peOrigem": "PE Igarassu",
+            "usinaDestino": "PAU FERRO I",
+            "consumoM3Mes": 7502741.0,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2415.8359375,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223833.421875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 8",
+            "peOrigem": "PE Igarassu",
+            "usinaDestino": "PERNAMBUCO III",
+            "consumoM3Mes": 7502741.0,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2415.8359375,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223833.421875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 9",
+            "peOrigem": "PE Macaíba",
+            "usinaDestino": "POTIGUAR I",
+            "consumoM3Mes": 8065446.5,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2597.023681640625,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223864.875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 10",
+            "peOrigem": "PE Macaíba",
+            "usinaDestino": "POTIGUAR III",
+            "consumoM3Mes": 8065446.5,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2597.023681640625,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223864.875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 11",
+            "peOrigem": "PE Dow Química",
+            "usinaDestino": "GLOBAL I",
+            "consumoM3Mes": 8065446.5,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2597.023681640625,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223864.875
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 12",
+            "peOrigem": "PE Dow Química",
+            "usinaDestino": "GLOBAL II",
+            "consumoM3Mes": 9753563.0,
+            "puc": 0.061000000685453418,
+            "prc": 166904.046875,
+            "custoAnualPrc": 2002848.5,
+            "custoAnualPuc": 2409.7587890625,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 348135.09375
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 13",
+            "peOrigem": "PE Fortaleza",
+            "usinaDestino": "MARACANAU",
+            "consumoM3Mes": 8440583.0,
+            "puc": 0.0794999971985817,
+            "prc": 107238.7265625,
+            "custoAnualPrc": 1286864.75,
+            "custoAnualPuc": 2717.815673828125,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 223885.859375
+            }
+        },
+        {
+            "nome": "Gasoduto Distribuidor 14",
+            "peOrigem": "PE Viana",
+            "usinaDestino": "VIANA",
+            "consumoM3Mes": 0.0,
+            "puc": 0.22540000081062318,
+            "prc": 4024.85009765625,
+            "custoAnualPrc": 48298.203125,
+            "custoAnualPuc": 0.0,
+            "opex": {
+                "tipo": "opex",
+                "moeda": "dolar",
+                "valor": 8385.1044921875
+            }
+        }
+    ],
+    "gasCrioColocados": [
+        {
+            "nome": "Gasoduto Criogênico 0",
+            "fsuOrigem": "FSU_0",
+            "terminalCargaDestino": "Terminal de carga do Suape",
+            "terminalRegasDestino": "",
+            "custoBase": 200.0,
+            "comprimento": 0.5978041415359924,
+            "diametro": 24.0,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 2869460.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 276450.34375
+                }
+            ]
+        }
+    ],
+    "frotasColocadas": [
+        {
+            "nome": "Frota 1",
+            "terminalRegasDestino": "Terminal de Regaseificacao_0",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 131.7479705810547,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 6890.12158203125
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.2500913441181183
+        },
+        {
+            "nome": "Frota 3",
+            "terminalRegasDestino": "Terminal de Regaseificacao_1",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 125.52735900878906,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 4376.5322265625
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.16672757267951966
+        },
+        {
+            "nome": "Frota 5",
+            "terminalRegasDestino": "Terminal de Regaseificacao_2",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 8.036850929260254,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 385.2834167480469
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.22925040125846864
+        },
+        {
+            "nome": "Frota 7",
+            "terminalRegasDestino": "Terminal de Regaseificacao_3",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 15.590372085571289,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 856.1082763671875
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.26259589195251467
+        },
+        {
+            "nome": "Frota 9",
+            "terminalRegasDestino": "Terminal de Regaseificacao_4",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 130.4582061767578,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 5685.55859375
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.20840945839881898
+        },
+        {
+            "nome": "Frota 11",
+            "terminalRegasDestino": "Terminal de Regaseificacao_5",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 63.261436462402347,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 2205.620361328125
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.16672757267951966
+        },
+        {
+            "nome": "Frota 13",
+            "terminalRegasDestino": "Terminal de Regaseificacao_6",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 62.658939361572269,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 2184.6142578125
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.16672757267951966
+        },
+        {
+            "nome": "Frota 15",
+            "terminalRegasDestino": "Terminal de Regaseificacao_7",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 64.80664825439453,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 2259.494384765625
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.16672757267951966
+        },
+        {
+            "nome": "Frota 17",
+            "terminalRegasDestino": "Terminal de Regaseificacao_8",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 282.1977844238281,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10576.7880859375
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.1792321503162384
+        },
+        {
+            "nome": "Frota 19",
+            "terminalRegasDestino": "Terminal de Regaseificacao_9",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 281.5411682128906,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 10552.177734375
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.1792321503162384
+        },
+        {
+            "nome": "Frota 21",
+            "terminalRegasDestino": "Terminal de Regaseificacao_10",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 616.2962036132813,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 23098.814453125
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.1792321503162384
+        },
+        {
+            "nome": "Frota 23",
+            "terminalRegasDestino": "Terminal de Regaseificacao_11",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 615.8635864257813,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 27913.841796875
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.21674585342407227
+        },
+        {
+            "nome": "Frota 25",
+            "terminalRegasDestino": "Terminal de Regaseificacao_12",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 642.8618774414063,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 25215.169921875
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.1875685155391693
+        },
+        {
+            "nome": "Frota 27",
+            "terminalRegasDestino": "Terminal de Regaseificacao_13",
+            "terminalGnlOrigem": "Suape",
+            "coordenadasMarker": {
+                "lat": -8.403144836425782,
+                "lon": -34.97111511230469
+            },
+            "distancia": 1455.68603515625,
+            "custos": [
+                {
+                    "tipo": "capex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                },
+                {
+                    "tipo": "opex",
+                    "moeda": "dolar",
+                    "valor": 0.0
+                }
+            ],
+            "fretePorKm": 5.5,
+            "capacidadeLiquido": 2500.0,
+            "capacidadeEquivGasoso": 1500000.0,
+            "recargasDia": 0.0
+        }
+    ]
+}

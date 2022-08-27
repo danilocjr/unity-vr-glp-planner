@@ -1,0 +1,1864 @@
+{
+    "pontosDeEntrega": [
+        {
+            "nome": "PE UTE M\u00e1rio Covas",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -15.678991052999947,
+                "lon": -56.02085757399993
+            },
+            "custos": [],
+            "GasodutoTransporte": "Lateral-Cuiab\u00e1"
+        },
+        {
+            "nome": "PE \u00c1guas Claras",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -11.096911035999938,
+                "lon": -37.34260802599994
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASEB (UPGN ATALAIA/UPGN CATU)"
+        },
+        {
+            "nome": "PE Anam\u00e3",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.5547222009999473,
+                "lon": -61.41896411099998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus (Trecho B2) Ramal Anam\u00e3"
+        },
+        {
+            "nome": "PE Anchieta",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.78925856199993,
+                "lon": -40.61825379199996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Interliga\u00e7\u00e3o GASCAV - UTG Sul Capixaba (Ramal)"
+        },
+        {
+            "nome": "PE Anori",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.7108278429999473,
+                "lon": -61.662840777999975
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus (Trecho B1) Ramal Anori"
+        },
+        {
+            "nome": "PE Aparecida",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.1303334599999744,
+                "lon": -60.03297328899998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus - Ramal UTE Aparecida"
+        },
+        {
+            "nome": "PE Aquiraz",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.9314317339999434,
+                "lon": -38.52753705699996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE Aracaju",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -11.00124241499998,
+                "lon": -37.06682492099998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASEB (UPGN ATALAIA/UPGN CATU)"
+        },
+        {
+            "nome": "PE Ara\u00e7\u00e1s",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.144248984999932,
+                "lon": -38.17636530599998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASEB (UPGN ATALAIA/UPGN CATU)"
+        },
+        {
+            "nome": "PE Aracati",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -4.58202307199997,
+                "lon": -37.77558918799997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Ramal Aracati"
+        },
+        {
+            "nome": "PE Aratu Residual",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.792121675999963,
+                "lon": -38.43234525499997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Aratu"
+        },
+        {
+            "nome": "PE Aratu-Manati",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.79256477399997,
+                "lon": -38.43235347799998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Aratu"
+        },
+        {
+            "nome": "PE Barbacena",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.208877830999935,
+                "lon": -43.70097492399998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE Barra Mansa II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.592689012999983,
+                "lon": -44.17371474999993
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Betim II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.981168237999952,
+                "lon": -44.10375506799994
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE Bragan\u00e7a Paulista",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.019088026999952,
+                "lon": -46.52669532099998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Campinas - Rio (GASCAR)"
+        },
+        {
+            "nome": "PE Brumadinho",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.226522820999943,
+                "lon": -44.09287092399995
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE Caapiranga",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.2960647689999405,
+                "lon": -61.215732611999954
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus (Trecho B2) Ramal Caapiranga"
+        },
+        {
+            "nome": "PE Cabi\u00fanas",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.287759999999935,
+                "lon": -41.728305999999975
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASDUC III"
+        },
+        {
+            "nome": "PE Cabo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -8.26751926399993,
+                "lon": -35.03044961399996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASALP (PILAR/CABO)"
+        },
+        {
+            "nome": "PE Ca\u00e7apava",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.10123851399993,
+                "lon": -45.62298873299994
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Cachoeiro de Itapemirim",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.01061376399997,
+                "lon": -40.93718696499997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASCAV (Cabi\u00fanas-Vit\u00f3ria)"
+        },
+        {
+            "nome": "PE Cama\u00e7ari",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.657354122999948,
+                "lon": -38.33546622199998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE Cama\u00e7ari-Manati",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.657371953999927,
+                "lon": -38.335364881999965
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE Campos dos Goytacazes",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.708994299999972,
+                "lon": -41.35563693399996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASCAV (Cabi\u00fanas-Vit\u00f3ria)"
+        },
+        {
+            "nome": "PE Candeias Residual",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.67022121599996,
+                "lon": -38.56786329099998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Aratu"
+        },
+        {
+            "nome": "PE Candeias-Manati",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.670266339999957,
+                "lon": -38.567807958999936
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Aratu"
+        },
+        {
+            "nome": "PE Capuava",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.639671618999955,
+                "lon": -46.475235819999966
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Carm\u00f3polis",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.698019949999946,
+                "lon": -37.120102593999945
+            },
+            "custos": [],
+            "GasodutoTransporte": "Catu-Carm\u00f3polis (Trecho 2: Itaporanga-Carmopolis)"
+        },
+        {
+            "nome": "PE Carm\u00f3polis II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.62712043099998,
+                "lon": -36.97311261799996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Catu-Carm\u00f3polis (Trecho 2: Itaporanga-Carmopolis)"
+        },
+        {
+            "nome": "PE Catu",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.389446420999946,
+                "lon": -38.351725691999945
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Catu (GASENE, GASCAC)"
+        },
+        {
+            "nome": "PE Caucaia",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.732313894999947,
+                "lon": -38.75182871599998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE Cexis",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.629433957999936,
+                "lon": -38.488560493999955
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE Cidade do A\u00e7o",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.571672903999968,
+                "lon": -44.073451569999975
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Coari",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -4.101099235999925,
+                "lon": -63.157912264999936
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus (Trecho A&B1) Ramal Coari"
+        },
+        {
+            "nome": "PE Codaj\u00e1s",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.8494212699999366,
+                "lon": -62.03724248399993
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus (Trecho B1) Ramal Codaj\u00e1s"
+        },
+        {
+            "nome": "PE Cruzeiro",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.668848156999957,
+                "lon": -44.90859520699996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Dow Qu\u00edmica",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.726165762999926,
+                "lon": -38.490117589999954
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Aratu"
+        },
+        {
+            "nome": "PE Duque de Caxias",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.69190531399994,
+                "lon": -43.29580125199993
+            },
+            "custos": [],
+            "GasodutoTransporte": "Japeri - REDUC"
+        },
+        {
+            "nome": "PE Est\u00e2ncia",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -11.217016054999933,
+                "lon": -37.40289527199997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASEB (UPGN ATALAIA/UPGN CATU)"
+        },
+        {
+            "nome": "PE Eun\u00e1polis",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -16.318298309999932,
+                "lon": -39.53102786299996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Catu (GASENE, GASCAC)"
+        },
+        {
+            "nome": "PE FAFEN  II SERG\u00c1S",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.77350578499994,
+                "lon": -37.14522303199993
+            },
+            "custos": [],
+            "GasodutoTransporte": "Atalaia-Laranjeiras (GAL)"
+        },
+        {
+            "nome": "PE FAFEN Bahia",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.657390130999945,
+                "lon": -38.33540166899997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE FAFEN EDG",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.774983309999982,
+                "lon": -37.14487749199998
+            },
+            "custos": [],
+            "GasodutoTransporte": "FAFEN - SERGAS (Ramal)"
+        },
+        {
+            "nome": "PE FAFEN-SE",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.77395110599997,
+                "lon": -37.14686823299997
+            },
+            "custos": [],
+            "GasodutoTransporte": "FAFEN - SERGAS (Ramal)"
+        },
+        {
+            "nome": "PE FAFEN-SERG\u00c1S",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.77395110599997,
+                "lon": -37.14686823299997
+            },
+            "custos": [],
+            "GasodutoTransporte": "FAFEN - SERGAS (Ramal)"
+        },
+        {
+            "nome": "PE Fazenda Alvorada",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -11.851413754999951,
+                "lon": -37.855689935999976
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASEB (UPGN ATALAIA/UPGN CATU)"
+        },
+        {
+            "nome": "PE Fazenda B\u00e1lsamo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -11.896828422999931,
+                "lon": -37.88904804099997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASEB (UPGN ATALAIA/UPGN CATU)"
+        },
+        {
+            "nome": "PE Fazenda Bel\u00e9m",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -4.734357246999934,
+                "lon": -37.55108360099996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE Fortaleza",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.8472879669999434,
+                "lon": -38.57460123199997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE Goiana",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.5616628669999395,
+                "lon": -35.02144997499994
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Goiana II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.561713896999947,
+                "lon": -35.02131813899996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Goianinha",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -6.299426335999954,
+                "lon": -35.24495388699995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Guapimirim",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.598851293999928,
+                "lon": -42.924683295999955
+            },
+            "custos": [],
+            "GasodutoTransporte": "Itaborai - Guapimirim"
+        },
+        {
+            "nome": "PE Guaratinguet\u00e1",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.83436082599997,
+                "lon": -45.144484416999944
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Ielmo Marinho",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -5.786321758999975,
+                "lon": -35.53786266299994
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Igarassu",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.821946543999957,
+                "lon": -34.94453364699996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Igarassu II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.855435055999976,
+                "lon": -34.94618896099996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Iranduba",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.26541885599994,
+                "lon": -60.16580855799998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus (Trecho B2) Ramal Iranduba"
+        },
+        {
+            "nome": "PE Itabuna",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -14.821984381999982,
+                "lon": -39.322626484999944
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Catu (GASENE, GASCAC)"
+        },
+        {
+            "nome": "PE Itaporanga",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -11.003882854999972,
+                "lon": -37.28205233299997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASEB (UPGN ATALAIA/UPGN CATU)"
+        },
+        {
+            "nome": "PE Jaboat\u00e3o",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -8.089980312999955,
+                "lon": -35.03210777999993
+            },
+            "custos": [],
+            "GasodutoTransporte": "Guamar\u00e9-Cabo (Variante NORDEST\u00c3O)"
+        },
+        {
+            "nome": "PE Japeri",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.64204030899998,
+                "lon": -43.61281299999996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASVOL (REDUC/ESVOL)"
+        },
+        {
+            "nome": "PE Japeri II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.642228279999927,
+                "lon": -43.61261650399996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASVOL (REDUC/ESVOL)"
+        },
+        {
+            "nome": "PE Juiz de Fora",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.627081621999935,
+                "lon": -43.49515825599997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE Linhares",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.630906994999975,
+                "lon": -39.91019279699998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Vitoria (Trecho Cacimbas-TIMS)"
+        },
+        {
+            "nome": "PE Lorena",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.793205415999974,
+                "lon": -45.07665851799993
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Maca\u00edba",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -5.904899227999977,
+                "lon": -35.38847830299994
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Mamanguape",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -6.8393709769999305,
+                "lon": -35.14089828899995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Manacapuru",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.2823273039999776,
+                "lon": -60.65557886099998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus (Trecho B2) Ramal Manacapuru"
+        },
+        {
+            "nome": "PE Manati UPGN Candeias",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.66931911399996,
+                "lon": -38.569622702999936
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE Manguinhos",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.888312999999926,
+                "lon": -37.12762599999997
+            },
+            "custos": [],
+            "GasodutoTransporte": "FAFEN - SERGAS (Ramal)"
+        },
+        {
+            "nome": "PE Marechal Deodoro",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -9.608037085999968,
+                "lon": -35.90681146199995
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASALP (PILAR/CABO)"
+        },
+        {
+            "nome": "PE Mau\u00e1",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.1214647089999517,
+                "lon": -59.93052812399998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus"
+        },
+        {
+            "nome": "PE Mossor\u00f3",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -5.1055189119999795,
+                "lon": -37.339223654999955
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE Mucuri",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -18.07922138799995,
+                "lon": -39.85940193199997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Catu (GASENE, GASCAC)"
+        },
+        {
+            "nome": "PE Pacajus",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -4.127380529999925,
+                "lon": -38.47363057499996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE Paracambi",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.633986211999968,
+                "lon": -43.70266213499997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASVOL (REDUC/ESVOL)"
+        },
+        {
+            "nome": "PE Paulista",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.918902701999968,
+                "lon": -34.95084607599995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Pec\u00e9m",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.5452873409999484,
+                "lon": -38.81157608199993
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE Pedras de Fogo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.356485154999973,
+                "lon": -35.02216432299997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE Penedo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.240970793999963,
+                "lon": -36.58857379999995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Carm\u00f3polis-Pilar"
+        },
+        {
+            "nome": "PE Pindamonhangaba II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.99932840799994,
+                "lon": -45.41979778399997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Pira\u00ed",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.59701188799994,
+                "lon": -43.852639505999946
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASVOL (REDUC/ESVOL)"
+        },
+        {
+            "nome": "PE RECAP II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.639490464999938,
+                "lon": -46.47529260399995
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Recife",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -8.046545323999965,
+                "lon": -34.995986614999936
+            },
+            "custos": [],
+            "GasodutoTransporte": "Nordest\u00e3o (GUAMAR\u00c9/CABO)"
+        },
+        {
+            "nome": "PE REDUC",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.71114978699995,
+                "lon": -43.25224615399998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Japeri - REDUC"
+        },
+        {
+            "nome": "PE REGAP I",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.981105084999967,
+                "lon": -44.10377453999996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE REGAP II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.98115968499997,
+                "lon": -44.10385069299997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE REMAN",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.147473835999961,
+                "lon": -59.95413863999994
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus"
+        },
+        {
+            "nome": "PE Resende II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.60440072199998,
+                "lon": -44.448625076999974
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE REVAP II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.207997896999927,
+                "lon": -45.81304677899993
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE Rio das Flores",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.17747305699993,
+                "lon": -43.46242746599995
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE Rio Largo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -9.442810854999948,
+                "lon": -35.837202668999964
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASALP (PILAR/CABO)"
+        },
+        {
+            "nome": "PE RLAM 14\"",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.668703104999963,
+                "lon": -38.57033192399996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Aratu"
+        },
+        {
+            "nome": "PE RLAM 6\"",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.668370316999926,
+                "lon": -38.569625377999955
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Aratu"
+        },
+        {
+            "nome": "PE RNEST",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -8.394734505999963,
+                "lon": -35.00333342299996
+            },
+            "custos": [],
+            "GasodutoTransporte": "TERMOPE-Ramal Termopernambuco"
+        },
+        {
+            "nome": "PE RPBC",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.864393931999928,
+                "lon": -46.422611856999936
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASAN (RPBC/RECAP)"
+        },
+        {
+            "nome": "PE Santa Rita CG",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.185456729999942,
+                "lon": -35.007013649999976
+            },
+            "custos": [],
+            "GasodutoTransporte": "Santa Rita - S\u00e3o Miguel do Taipu"
+        },
+        {
+            "nome": "PE Santa Rita JP",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -7.18733397699998,
+                "lon": -35.00722504199996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Santa Rita - S\u00e3o Miguel do Taipu"
+        },
+        {
+            "nome": "PE S\u00e3o Bernardo do Campo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.792678036999973,
+                "lon": -46.513338068999985
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASAN (RPBC/RECAP)"
+        },
+        {
+            "nome": "PE S\u00e3o Bernardo do Campo II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.81303117599998,
+                "lon": -46.50587668999998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cubatao-GASAN trecho 2"
+        },
+        {
+            "nome": "PE S\u00e3o Br\u00e1s Do Sua\u00e7u\u00ed II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.617728803999967,
+                "lon": -43.93174088599994
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE S\u00e3o Jos\u00e9 dos Campos",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.20650191799996,
+                "lon": -45.812382996999986
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL (ESVOL/MAU\u00c1)"
+        },
+        {
+            "nome": "PE S\u00e3o Mateus",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -18.709451662999985,
+                "lon": -39.91586450999995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Catu (GASENE, GASCAC)"
+        },
+        {
+            "nome": "PE S\u00e3o Miguel dos Campos",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -9.764895918999969,
+                "lon": -36.14198996199997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Carm\u00f3polis-Pilar"
+        },
+        {
+            "nome": "PE SDV-02",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.60056347099993,
+                "lon": -39.837517401999946
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Vitoria (Trecho Cacimbas-TIMS)"
+        },
+        {
+            "nome": "PE Socorro",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -10.862391999999945,
+                "lon": -37.13435399999997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Atalaia-Laranjeiras (GAL)"
+        },
+        {
+            "nome": "PE Suape (GASALP)",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -8.36833335199998,
+                "lon": -35.03954872199995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Pilar-Ipojuca"
+        },
+        {
+            "nome": "PE Suape (Pilar-Ipojuca)",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -8.36833335199998,
+                "lon": -35.03954872199995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Pilar-Ipojuca"
+        },
+        {
+            "nome": "PE Suzano",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.527064465999956,
+                "lon": -46.26085164899996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASPAL-II"
+        },
+        {
+            "nome": "PE Taubat\u00e9",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.095234208999955,
+                "lon": -45.574666579999985
+            },
+            "custos": [],
+            "GasodutoTransporte": "Caraguatatuba - Taubat\u00e9"
+        },
+        {
+            "nome": "PE TECAB",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.282798999999955,
+                "lon": -41.72573599999998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASCAV (Cabi\u00fanas-Vit\u00f3ria)"
+        },
+        {
+            "nome": "PE UTE Aparecida",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.1304611109999314,
+                "lon": -60.03304166699997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus - Ramal UTE Aparecida"
+        },
+        {
+            "nome": "PE UTE Baixada Fluminense",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.643221138999937,
+                "lon": -43.611497260999954
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASVOL (REDUC/ESVOL)"
+        },
+        {
+            "nome": "PE UTE CHESF",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.657390222999936,
+                "lon": -38.33543850299998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE UTE Cubat\u00e3o",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.873934911999985,
+                "lon": -46.43060663699998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASAN (RPBC/RECAP)"
+        },
+        {
+            "nome": "PE UTE Ibirit\u00e9",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.98112257699995,
+                "lon": -44.10365974899997
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE UTE Jos\u00e9 de Alencar",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.6760335169999503,
+                "lon": -38.85804293299998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE UTE Juiz de Fora ",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.717912316999957,
+                "lon": -43.49299721899996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASBEL (REDUC/REGAP)"
+        },
+        {
+            "nome": "PE UTE Linhares",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.53633185999996,
+                "lon": -39.79986075099998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Vitoria (Trecho Cacimbas-TIMS)"
+        },
+        {
+            "nome": "PE UTE M\u00e1rio Lago",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.352862303999927,
+                "lon": -41.82078515799998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASDUC III"
+        },
+        {
+            "nome": "PE UTE Mau\u00e1",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.1214805559999377,
+                "lon": -59.930555555999945
+            },
+            "custos": [],
+            "GasodutoTransporte": "Coari-Manaus"
+        },
+        {
+            "nome": "PE UTE Norte Fluminense",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.352419660999946,
+                "lon": -41.82080535199998
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASDUC III"
+        },
+        {
+            "nome": "PE UTE R\u00f4mulo Almeida",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.657485416999975,
+                "lon": -38.33556291399998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE UTE Termoa\u00e7u",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -5.383162994999964,
+                "lon": -36.81963419699997
+            },
+            "custos": [],
+            "GasodutoTransporte": "A\u00e7u-Serra do Mel"
+        },
+        {
+            "nome": "PE UTE Termobahia",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -12.668714660999967,
+                "lon": -38.56971951199995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Candeias - Cama\u00e7ari"
+        },
+        {
+            "nome": "PE UTE Termocear\u00e1",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.6920031709999535,
+                "lon": -38.870143507999956
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE UTE Termofortaleza",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -3.6811831969999393,
+                "lon": -38.86358678299996
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASFOR  (UPGN GUAMAR\u00c9/PECEM)"
+        },
+        {
+            "nome": "PE UTE Termope",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -8.403823823999971,
+                "lon": -34.966071246999945
+            },
+            "custos": [],
+            "GasodutoTransporte": "TERMOPE-Ramal Termopernambuco"
+        },
+        {
+            "nome": "PE UTE Termorio",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.71099724199996,
+                "lon": -43.25233569699998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Japeri - REDUC"
+        },
+        {
+            "nome": "PE UTE Termorio II",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.71099724199996,
+                "lon": -43.25233569699998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Japeri - REDUC"
+        },
+        {
+            "nome": "PE Vale",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.26153777199994,
+                "lon": -40.249089056999935
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Vitoria (Trecho Cacimbas-TIMS)"
+        },
+        {
+            "nome": "PE Veracel",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -16.285551019999957,
+                "lon": -39.521623320999936
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Catu (GASENE, GASCAC)"
+        },
+        {
+            "nome": "PE Viana",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.38695985499993,
+                "lon": -40.47869691599993
+            },
+            "custos": [],
+            "GasodutoTransporte": "GASCAV (Cabi\u00fanas-Vit\u00f3ria)"
+        },
+        {
+            "nome": "PE Vit\u00f3ria",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.26157431799993,
+                "lon": -40.24903190599997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Cacimbas-Vitoria (Trecho Cacimbas-TIMS)"
+        },
+        {
+            "nome": "PE Volta Redonda",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.508639029999927,
+                "lon": -44.082797065999955
+            },
+            "custos": [],
+            "GasodutoTransporte": "Rio de Janeiro - Belo Horizonte (GASBEL II)"
+        },
+        {
+            "nome": "PE Americana",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.679507702999956,
+                "lon": -47.29559278499994
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Ara\u00e7oiaba da Serra",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.49470335799998,
+                "lon": -47.644732861999955
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Araric\u00e1",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.66766695399997,
+                "lon": -50.94536954299997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Arauc\u00e1ria CIC",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -25.55858984699995,
+                "lon": -49.37130832599996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Bilac",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.380160745999945,
+                "lon": -50.45805340499993
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Blumenau Gaspar",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -26.903411785999936,
+                "lon": -48.98433215699998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Boa Esperan\u00e7a do Sul",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.915552584999944,
+                "lon": -48.31518866899995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Brusque",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -27.036937982999973,
+                "lon": -48.87214021699998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Cachoeirinha",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.872751051999956,
+                "lon": -51.094210947999954
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Campinas",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.942366232999973,
+                "lon": -47.175844697999935
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Campo Grande",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.609322728999928,
+                "lon": -54.742923420999944
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Campo Largo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -25.43423459299993,
+                "lon": -49.43460815099997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Canoas",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.876366875999963,
+                "lon": -51.14699628499994
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Corumb\u00e1",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -19.287412881999956,
+                "lon": -57.627987290999954
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Gemini",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.754293564999955,
+                "lon": -47.128866398999946
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Guai\u00e7ara",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.60778268399997,
+                "lon": -49.78419954499998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Guaramirim",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -26.462365296999963,
+                "lon": -48.945005153999944
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Guararema",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.389659412999947,
+                "lon": -46.110230970999964
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Iacanga",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.816661170999964,
+                "lon": -49.02329919799996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Ibitinga",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.814712509999936,
+                "lon": -48.834815350999975
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Igrejinha",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.602714274999983,
+                "lon": -50.80035429999998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Sider\u00f3polis-Porto Alegre"
+        },
+        {
+            "nome": "PE Indaiatuba",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.096910779999973,
+                "lon": -47.28284394099995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Itapetininga",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.70248369899997,
+                "lon": -48.063730662999944
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Itatiba",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.97646343499997,
+                "lon": -46.774394118999965
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Itirapina",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.21988699999997,
+                "lon": -47.77109699999994
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Itu",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.238935175999927,
+                "lon": -47.378751755999986
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Jaguari\u00fana",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.76541364999997,
+                "lon": -47.06859950499995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Joinville",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -26.22497350699996,
+                "lon": -48.89281993399993
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Limeira",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.604931360999956,
+                "lon": -47.47538833899995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Nova Veneza",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -28.64650075399993,
+                "lon": -49.49173129999997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Sider\u00f3polis-Porto Alegre"
+        },
+        {
+            "nome": "PE Porto Feliz",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -23.341566372999974,
+                "lon": -47.481059684999934
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE REFAP",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.87633045399997,
+                "lon": -51.147286185999974
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE REPAR",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -25.57600402199995,
+                "lon": -49.37316211899997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE REPLAN",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.71988560099993,
+                "lon": -47.13353244499996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Rio Claro",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.47497724899995,
+                "lon": -47.580110386999934
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE S\u00e3o Carlos",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.11034888399996,
+                "lon": -47.878126461999955
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE S\u00e3o Pedro de Alc\u00e2ntara",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -27.574449903999948,
+                "lon": -48.749466353999935
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Sumar\u00e9",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -22.848644157999956,
+                "lon": -47.130781627999966
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Tijucas",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -27.259398362999946,
+                "lon": -48.709870653999985
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Tr\u00eas Lagoas UFNIII",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.96006184999993,
+                "lon": -51.84073380899997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Tubar\u00e3o",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -28.439270189999945,
+                "lon": -49.075019571999974
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE Urussanga",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -28.60519341099996,
+                "lon": -49.40253431499997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE UTE Arauc\u00e1ria",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -25.577055942999948,
+                "lon": -49.37276963399995
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE UTE Canoas",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.87615021299996,
+                "lon": -51.14705809999998
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Sul: Paul\u00ednia (SP) x Canoas (RS)"
+        },
+        {
+            "nome": "PE UTE Tr\u00eas Lagoas",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -20.96006184999993,
+                "lon": -51.84073380899997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE Valpara\u00edso",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -21.282982181999955,
+                "lon": -50.899860657999966
+            },
+            "custos": [],
+            "GasodutoTransporte": "Bol\u00edvia - Brasil (GASBOL) Trecho Norte: Corumb\u00e1 (MS) x Guararema (SP)"
+        },
+        {
+            "nome": "PE V\u00e1rzea do Cedro",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.216604699999948,
+                "lon": -50.470789829999944
+            },
+            "custos": [],
+            "GasodutoTransporte": "Sider\u00f3polis-Porto Alegre"
+        },
+        {
+            "nome": "PE Triunfo",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.898501314999976,
+                "lon": -51.38557765499996
+            },
+            "custos": [],
+            "GasodutoTransporte": "Uruguaiana-Triunfo"
+        },
+        {
+            "nome": "PE UTE Uruguaiana",
+            "categoria": "Existente",
+            "coordenadas": {
+                "lat": -29.811975390999976,
+                "lon": -56.99986546499997
+            },
+            "custos": [],
+            "GasodutoTransporte": "Uruguaiana-Triunfo"
+        }
+    ]
+}

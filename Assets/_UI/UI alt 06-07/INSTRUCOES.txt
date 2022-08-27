@@ -1,0 +1,7 @@
+O logo ja é auto explicativo
+
+As etiquetas do controle devem ser usadas como na foto de exemplo, o circulo deve estar com o botão no meio e as instruções escritas na barrinha.
+Para os gatilhos, é só alinhar as barras com eles e escrever as funções. Eu sugiro inclinar as barras dos gatilhos um pouco em direção ao usuario para melhorar visualização mas só se necessário e num valor suave.
+Caso mesmo assim os gatilhos fiquem ruim de enchergar, me avisa que eu faço eles em modelo 3D efetuando uma curva para ver melhor.
+
+Sobre os icones, somente colocar o fundo preto em todos eles, o resto das cores pode manter que ficou legal o contraste do preto com elas.

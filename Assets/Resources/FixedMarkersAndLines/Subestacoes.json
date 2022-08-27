@@ -1,0 +1,9143 @@
+{
+ "subestacoes": [
+  {
+   "attributes": {
+    "Nome": "SE Abdon Batista",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 4970,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.072193056999936,
+    "y": -27.57180735999998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Abunã",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4971,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -65.167522473999952,
+    "y": -9.7110355169999707
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Açailândia",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 4972,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.403437003999954,
+    "y": -4.9189860529999692
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Acaraú II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4973,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.11407421499996,
+    "y": -2.9276623859999518
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Açu II",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4974,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.908397167999965,
+    "y": -5.5927779389999728
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Açu III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 4975,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.029681561999951,
+    "y": -5.5788284549999503
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Adrianópolis",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4976,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.476336451999941,
+    "y": -22.665795267999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Água Azul",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4977,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.401374438999937,
+    "y": -23.375049854999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Água Vermelha",
+    "Tensao": "500/440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4978,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.348876999999959,
+    "y": -19.860900998999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Águas Lindas",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4979,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.275708657999985,
+    "y": -15.767535169999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Alegrete 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4980,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.724810459999958,
+    "y": -29.777499961999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Altamira",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4981,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.17962128399995,
+    "y": -3.1368817099999546
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Anastácio",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4982,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.841667092999955,
+    "y": -20.567600837999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Andirá Leste",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4983,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.19299228899996,
+    "y": -23.07730930799994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Angelim",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4984,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.29460629099998,
+    "y": -8.8934432869999682
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Angra dos Reis",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4985,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.455947207999941,
+    "y": -23.00690291899997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Anhanguera",
+    "Tensao": "345/230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 4986,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.768299229999968,
+    "y": -23.493160498999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Aparecida",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 4987,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.255013301999952,
+    "y": -22.86910151099994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Apucarana",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 4988,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.446798357999967,
+    "y": -23.53451957599998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Aracati II",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 4989,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.763270926999951,
+    "y": -4.4881500919999553
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Araçuaí 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4990,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.020055419999949,
+    "y": -16.834292871999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Arapiraca III",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4991,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.649589446999983,
+    "y": -9.7868803499999331
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Araraquara CTP",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4992,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.263919999999985,
+    "y": -21.782680998999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Araraquara FUR",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 4993,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.253426014999945,
+    "y": -21.774001028999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Araraquara 2",
+    "Tensao": "500/440",
+    "Situacao": "Existente",
+    "OBJECTID": 4994,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.349669440999946,
+    "y": -21.833564133999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Araras",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4995,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.461886999999933,
+    "y": -22.395741998999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Arcoverde II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4996,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.00373269499994,
+    "y": -8.4992002939999338
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Areia",
+    "Tensao": "525/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 4997,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.60034399999995,
+    "y": -25.969180998999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ariquemes",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 4998,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -63.01232073999995,
+    "y": -9.9263594519999288
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Assis",
+    "Tensao": "500/440/230",
+    "Situacao": "Existente",
+    "OBJECTID": 4999,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.35067743999997,
+    "y": -22.66873484599995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Atibaia II",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5000,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.557338253999944,
+    "y": -23.047074089999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Atlântida 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5001,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.054626464999956,
+    "y": -29.782409666999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Avaré Nova",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5002,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.932902995999939,
+    "y": -23.062606833999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barão de Cocais 3",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5003,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.44160299999993,
+    "y": -19.853036998999983
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bagé 2",
+    "Tensao": "230/69/23/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5004,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.071402605999936,
+    "y": -31.288802866999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Baixada Santista",
+    "Tensao": "345/230/138/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5005,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.420409999999947,
+    "y": -23.859618998999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Balbina",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5006,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -59.479988506999973,
+    "y": -1.9196068399999717
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Balsas",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5007,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.018026285999952,
+    "y": -7.5593829269999446
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Banabuiú",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5008,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.912252137999985,
+    "y": -5.3052032129999702
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bandeirantes",
+    "Tensao": "345/88/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5009,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.692243368999982,
+    "y": -23.59887274099998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bandeirantes",
+    "Tensao": "345/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5010,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.233777550999946,
+    "y": -16.793113474999927
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barbacena 2",
+    "Tensao": "345/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5011,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.754773394999972,
+    "y": -21.185750551999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barra do Peixe",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5012,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.616536019999955,
+    "y": -16.495573874999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barra Grande",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5013,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.184455012999933,
+    "y": -27.769047446999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barreiras",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5014,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.946593999999948,
+    "y": -12.134398999999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barreiras II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5015,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.81061049799996,
+    "y": -12.171879840999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barreiro 1",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5016,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.991376836999962,
+    "y": -20.000270703999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barro Alto",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5017,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.92546505599995,
+    "y": -15.119400651999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barro Branco",
+    "Tensao": "345",
+    "Situacao": "Existente",
+    "OBJECTID": 5018,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.317993163999972,
+    "y": -20.43188476499995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bateias",
+    "Tensao": "525/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5019,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.532641578999971,
+    "y": -25.411651685999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bauru",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5020,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.096007999999983,
+    "y": -22.282775998999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Biguaçu",
+    "Tensao": "525/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5021,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.733390999999983,
+    "y": -27.485024998999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Blumenau",
+    "Tensao": "525/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5022,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.079213999999979,
+    "y": -26.782301998999969
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Boa Esperança",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5023,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.563958403999948,
+    "y": -6.7238901529999566
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Boa Vista",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5024,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -60.717241102999935,
+    "y": 2.9420674960000497
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bom Despacho 3",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5025,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.310687154999982,
+    "y": -19.792760484999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bom Jardim",
+    "Tensao": "440/138/88/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5026,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.990190910999956,
+    "y": -23.151775383999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bom Jesus da Lapa II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5027,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.343406038999944,
+    "y": -13.309804027999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bom Jesus II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5028,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.311742642999945,
+    "y": -9.1035703009999338
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bom Nome",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5029,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.62754113799997,
+    "y": -7.9972639979999371
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bongi",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5030,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.928122504999976,
+    "y": -8.0634947419999321
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Botucatu",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5031,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.437621999999976,
+    "y": -22.950499998999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Brasília Geral",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5032,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.951551615999961,
+    "y": -15.812543317999939
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Brasília Leste",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5033,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.707242457999939,
+    "y": -15.809624731999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Brasilia Sul",
+    "Tensao": "345/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5034,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.068136686999935,
+    "y": -15.862482155999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Brotas de Macaubas",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5035,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.343183516999943,
+    "y": -12.308478226999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Brumado II",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5036,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.635833332999937,
+    "y": -14.213611110999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Imbirussú",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5037,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.752014903999964,
+    "y": -20.547265874999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cabreuva",
+    "Tensao": "440/230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5038,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.116158128999984,
+    "y": -23.277461009999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cachoeira Dourada",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5039,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.486714633999952,
+    "y": -18.502730076999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cachoeira Paulista",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5040,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.036658371999977,
+    "y": -22.629853800999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Caetés II",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5041,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.760010443999931,
+    "y": -8.8437692619999666
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Camaçari II",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5042,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.34495997099998,
+    "y": -12.61902491099994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Camaçari IV",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5043,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.34355571499998,
+    "y": -12.617721707999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Camaquã 1",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5044,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.815732314999934,
+    "y": -30.827924333999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Camaquã 3",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5045,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.809917415999962,
+    "y": -30.809307505999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campina Grande III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5046,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.980136103999939,
+    "y": -7.2532409299999472
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campina Grande II",
+    "Tensao": "230/138/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5047,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.908778364999932,
+    "y": -7.2667043409999792
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campinas",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5048,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.004876703999969,
+    "y": -22.773662388999981
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campo Bom",
+    "Tensao": "230/69/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5049,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.065974250999943,
+    "y": -29.69397040299998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campo do Assobio",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5050,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.18303717799995,
+    "y": -25.668405593999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campo Grande 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5051,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.490921275999938,
+    "y": -20.442093996999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campos",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5052,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.337444999999946,
+    "y": -21.718470142999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campo Mourão",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5053,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.367613767999956,
+    "y": -24.074765673999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campos Novos",
+    "Tensao": "525/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5054,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.417701204999958,
+    "y": -27.539283624999939
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Cana Brava",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5055,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.14054699999997,
+    "y": -13.399595999999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Canarana",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5056,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.291206983999984,
+    "y": -13.524470258999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Presidente Médici",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5057,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.681248595999932,
+    "y": -31.551132278999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Canoas 2",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5058,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.143919059999973,
+    "y": -29.874779144999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Canoinhas",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5059,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.403140968999935,
+    "y": -26.196411610999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Capão Bonito",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5060,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.343078999999932,
+    "y": -23.986693998999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Capivara",
+    "Tensao": "440/138/14,4",
+    "Situacao": "Existente",
+    "OBJECTID": 5061,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.360313043999952,
+    "y": -22.657657434999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Carajás (PA)",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5062,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.888488563999942,
+    "y": -5.9809769999999389
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Carajás (GO)",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5063,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.352419944999951,
+    "y": -16.719825241999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cascavel",
+    "Tensao": "230/138/34,5/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5064,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.456177999999966,
+    "y": -24.995032998999932
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cascavel Oeste",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5065,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.533195287999945,
+    "y": -25.029097011999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Catu",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5066,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.363613274999977,
+    "y": -12.39752335299994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cauípe",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5067,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.87081590899993,
+    "y": -3.6942584969999643
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Caxias",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5068,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.201161400999979,
+    "y": -29.277030683999953
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Caxias do Sul 5",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5069,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.191542426999945,
+    "y": -29.13234566999995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Caxias do Sul 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5070,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.157263091999937,
+    "y": -29.142245507999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Schincariol",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5071,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.408496258999946,
+    "y": -4.8721506059999342
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE CBA 2",
+    "Tensao": "440/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5072,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.296413480999945,
+    "y": -23.540827176999983
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ceará Mirim II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5073,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.452143110999941,
+    "y": -5.6733559399999649
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Aimorés",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5074,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.02360370699995,
+    "y": -19.499995828999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Centro - CTR",
+    "Tensao": "230/88/20",
+    "Situacao": "Existente",
+    "OBJECTID": 5075,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.648298999999952,
+    "y": -23.536799998999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Centro - CTT",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5076,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.721443999999963,
+    "y": -23.513013998999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cerquilho III",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5077,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.774426024999968,
+    "y": -23.140045652999959
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Chavantes",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5078,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.728716999999961,
+    "y": -23.126006998999969
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cícero Dantas",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5079,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.367209017999983,
+    "y": -10.597351369999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cidade Industrial",
+    "Tensao": "230/138/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5080,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.179992675999983,
+    "y": -29.891296385999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cidade Industrial de Curitiba",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5081,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.332718468999985,
+    "y": -25.525864057999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cláudia",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5082,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.333911928999953,
+    "y": -11.290199967999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Codemin",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5083,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.337828531999946,
+    "y": -14.158663150999928
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Coelho Neto",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5084,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.986713556999973,
+    "y": -4.2981338459999279
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Chapadão",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5085,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.389079085999981,
+    "y": -18.911373690999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Coletora Porto Velho",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5086,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -63.958522844999948,
+    "y": -8.9135890869999344
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Colinas",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5087,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.455289752999931,
+    "y": -7.9700933889999419
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Conselheiro Lafaiete",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5088,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.823320914999954,
+    "y": -20.663202540999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Conselheiro Pena",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5089,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.482982748999973,
+    "y": -19.180441276999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Coremas",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5090,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.955735273999949,
+    "y": -7.0161789679999629
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Corumbá",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5091,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.541252383999961,
+    "y": -17.986745818999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Corumbá 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5092,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -57.619579080999983,
+    "y": -19.03851033199993
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Coxipó",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5093,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.997762040999987,
+    "y": -15.628488779999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cuiabá",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5094,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.853909784999985,
+    "y": -15.685941734999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Curitiba",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5095,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.31812903399998,
+    "y": -25.593226571999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Curitiba Leste",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5096,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.079821907999985,
+    "y": -25.571423724999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Delmiro Gouveia",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5097,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.515353353999956,
+    "y": -3.7873647269999537
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Desterro",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5098,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.513978349999945,
+    "y": -27.670272200999932
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Distrito Industrial de São José dos Pinhais",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5099,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.128081688999941,
+    "y": -25.529594360999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Dona Francisca",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5100,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.289794921999942,
+    "y": -29.450988768999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Dourados",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5101,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.991949862999945,
+    "y": -22.268731268999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Edgard de Souza",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5102,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.907798999999955,
+    "y": -23.45318999899996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Eldorado do Sul",
+    "Tensao": "230/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5103,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.318553148999968,
+    "y": -30.014574945999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Eliseu Martins",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5104,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.670278999999937,
+    "y": -8.0985319999999774
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Emborcação",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5105,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.98651099999995,
+    "y": -18.457274998999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Embu-Guaçu",
+    "Tensao": "440/345/138/16/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5106,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.799831686999937,
+    "y": -23.844663598999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Encruzo Novo",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5107,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.854816175999986,
+    "y": -2.2181596979999654
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Luiz Carlos Barreto de Carvalho (Estreito)",
+    "Tensao": "345/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5108,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.28466964699993,
+    "y": -20.154976946999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Estreito",
+    "Tensao": "500/345",
+    "Situacao": "Existente",
+    "OBJECTID": 5109,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.175197716999946,
+    "y": -20.260454796999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Eunápolis",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5110,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.550016968999955,
+    "y": -16.338752962999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Extremoz II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5111,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.304066368999941,
+    "y": -5.7381763129999399
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Farroupilha",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5112,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.324445556999933,
+    "y": -29.220537288999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tomba",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5113,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.967932352999981,
+    "y": -12.288260911999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Fibraplac",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5114,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.766903626999976,
+    "y": -29.898337431999948
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Figueira",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5115,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.388430999999969,
+    "y": -23.849376998999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Firminópolis",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5116,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.32754953999995,
+    "y": -16.591807804999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Forquilhinha",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5117,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.523593107999943,
+    "y": -28.751141461999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Fortaleza II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5118,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.54352152499996,
+    "y": -3.8330253459999426
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Foz do Chapecó",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5119,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.052887123999938,
+    "y": -27.139484677999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Foz do Chopim",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5120,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.096135440999944,
+    "y": -25.523546715999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Foz do Iguaçu",
+    "Tensao": "765/600/500/127",
+    "Situacao": "Existente",
+    "OBJECTID": 5121,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.539422802999979,
+    "y": -25.467835966999928
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Funil",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5122,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.462189886999965,
+    "y": -14.232713910999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Poços de Caldas",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5123,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.613516983999943,
+    "y": -21.799137336999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Garabi II",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5124,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.672550529999967,
+    "y": -28.253291007999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Garanhuns II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5125,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.403400380999983,
+    "y": -8.8826135879999697
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Garibaldi 1",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5126,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.512239447999946,
+    "y": -29.239115152999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gentio do Ouro II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5127,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.666619177999962,
+    "y": -11.28014445599996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gerdau SP",
+    "Tensao": "440/33/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5128,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.08499913199995,
+    "y": -23.438186157999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Getulina",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5129,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.838262999999984,
+    "y": -21.855550998999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gilbués II",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5130,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.34632673699997,
+    "y": -9.7530218529999502
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Governador Mangabeira",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5131,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.03398057499993,
+    "y": -12.607213851999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Governador Valadares 2",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5132,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.980057879999947,
+    "y": -18.849580480999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Grajaú",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5133,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.264710064999974,
+    "y": -22.92774228899998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gralha Azul",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5134,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.354764431999968,
+    "y": -25.586874599999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gravataí 2",
+    "Tensao": "230/69/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5135,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.065333477999957,
+    "y": -29.883843550999984
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gravataí 3",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5136,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.962707519999981,
+    "y": -29.887695311999948
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Guaiba 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5137,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.38140739399995,
+    "y": -30.130191455999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Guaíra",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5138,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.226065939999955,
+    "y": -24.102710250999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Guamá",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5139,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.445599987999969,
+    "y": -1.4585869659999275
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Guarulhos",
+    "Tensao": "345",
+    "Situacao": "Existente",
+    "OBJECTID": 5140,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.585395546999962,
+    "y": -23.442358094999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Guilman-Amorim",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5141,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.923613504999935,
+    "y": -19.675017288999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gurupi",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5142,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.011826675999941,
+    "y": -11.73586458099993
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Henry Borden",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5143,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.450683999999967,
+    "y": -23.877685998999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ibicoara",
+    "Tensao": "500/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5144,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.373900999999933,
+    "y": -13.43890399999998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ibiporã",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5145,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.076976042999945,
+    "y": -23.29175565099996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ibiúna",
+    "Tensao": "600/500/345/20",
+    "Situacao": "Existente",
+    "OBJECTID": 5146,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.104747999999972,
+    "y": -23.667022998999983
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Icó",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5147,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.88137299999994,
+    "y": -6.4091519999999491
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Igaporã III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5148,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.612693800999978,
+    "y": -13.984219361999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Ilha Solteira",
+    "Tensao": "440/138/14,4/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5149,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.370379925999941,
+    "y": -20.381325927999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Imperatriz",
+    "Tensao": "230/500",
+    "Situacao": "Existente",
+    "OBJECTID": 5150,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.444026962999942,
+    "y": -5.4925446739999302
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Integradora",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5151,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.021900966999965,
+    "y": -6.4385166369999638
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Interlagos",
+    "Tensao": "345/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5152,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.681419352999967,
+    "y": -23.710086606999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ipatinga 1",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5153,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.557676275999938,
+    "y": -19.438839971999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Irapé",
+    "Tensao": "345/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5154,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.571438283999953,
+    "y": -16.729788226999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Irecê",
+    "Tensao": "230/138/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5155,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.807959867999955,
+    "y": -11.308778874999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itá",
+    "Tensao": "525",
+    "Situacao": "Existente",
+    "OBJECTID": 5156,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.405844443999968,
+    "y": -27.273058332999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itabaiana",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5157,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.456081698999981,
+    "y": -10.662183883999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itaberá",
+    "Tensao": "750",
+    "Situacao": "Existente",
+    "OBJECTID": 5158,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.132020010999952,
+    "y": -23.951310710999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itabira 2",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5159,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.199702663999972,
+    "y": -19.595225588999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itabira 4",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5160,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.285512241999982,
+    "y": -19.602629003999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ouro Preto 2",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5161,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.75830099999996,
+    "y": -20.297790998999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itabirito 2",
+    "Tensao": "500/345",
+    "Situacao": "Existente",
+    "OBJECTID": 5162,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.784725999999978,
+    "y": -20.328155999999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itacaiúnas",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5163,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.147276713999986,
+    "y": -5.4562679239999738
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itajaí",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5164,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.781504918999985,
+    "y": -26.973162059999936
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itajubá 3",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5165,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.515785691999952,
+    "y": -22.468150176999927
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itapaci",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5166,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.523733753999977,
+    "y": -14.94428675599994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itapeti",
+    "Tensao": "345/230/88/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5167,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.176556863999963,
+    "y": -23.547324831999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itararé II",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5168,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.312763984999947,
+    "y": -24.102466331999949
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itatiba",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5169,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.905003068999974,
+    "y": -22.957022783999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itaúba",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5170,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.233786243999987,
+    "y": -29.26047690799993
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itiquira",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5171,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.874860941999941,
+    "y": -17.079586712999969
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Itumbiara",
+    "Tensao": "500/345/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5172,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.114136302999952,
+    "y": -18.407219944999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itutinga",
+    "Tensao": "345",
+    "Situacao": "Existente",
+    "OBJECTID": 5173,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.629144268999937,
+    "y": -21.296152925999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ivaiporã",
+    "Tensao": "525",
+    "Situacao": "Existente",
+    "OBJECTID": 5174,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.677427078999983,
+    "y": -24.43101706899995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ivaiporã",
+    "Tensao": "750",
+    "Situacao": "Existente",
+    "OBJECTID": 5175,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.674087808999957,
+    "y": -24.420586895999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ivinhema 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5176,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.574887088999958,
+    "y": -22.417905365999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jacaracanga",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5177,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.482691227999965,
+    "y": -12.696960829999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jacarepaguá",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5178,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.42125895099997,
+    "y": -22.924102238999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jaguará",
+    "Tensao": "500/345",
+    "Situacao": "Existente",
+    "OBJECTID": 5179,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.438268025999946,
+    "y": -20.012849363999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jaguariaíva",
+    "Tensao": "230/138/69/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5180,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.694571050999969,
+    "y": -24.233841535999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jandira",
+    "Tensao": "440/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5181,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.906600999999966,
+    "y": -23.563036998999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jardim",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5182,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.150345213999969,
+    "y": -10.882780803999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jaru",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5183,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -62.454441864999978,
+    "y": -10.423273590999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jataí",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5184,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.091031015999931,
+    "y": -17.786054613999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jauru",
+    "Tensao": "500/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5185,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -58.831096933999959,
+    "y": -15.381336481999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jeceaba",
+    "Tensao": "345/33",
+    "Situacao": "Existente",
+    "OBJECTID": 5186,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.970121140999936,
+    "y": -20.583414606999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ji-Paraná",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5187,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -61.894410102999984,
+    "y": -10.86211643799993
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE João Camara II",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5188,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.874854358999983,
+    "y": -5.3024455589999775
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE João Camara III",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5189,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.886199795999971,
+    "y": -5.3803186899999673
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Joinville Norte",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5190,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.901166177999983,
+    "y": -26.25183065799996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Joinville",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5191,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.887574197999982,
+    "y": -26.29152064699997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jorge Lacerda A",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5192,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.96993075599994,
+    "y": -28.451035254999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jorge Lacerda B",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5193,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.970568234999973,
+    "y": -28.456042729999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jorge Teixeira",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5194,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -59.896301269999981,
+    "y": -3.020690917999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Juazeiro II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5195,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.476606966999952,
+    "y": -9.4810551199999509
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Juazeiro III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5196,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.51936608099993,
+    "y": -9.4866746869999474
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Juiz de Fora 1",
+    "Tensao": "345/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5197,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.402772681999977,
+    "y": -21.711113401999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jupiá",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5198,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.633057999999949,
+    "y": -20.783104998999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jurumirim",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5199,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.230308397999977,
+    "y": -23.208560859999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jurupari",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5200,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.765899999999931,
+    "y": -1.5523999999999774
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lages",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5201,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.337403753999979,
+    "y": -27.756301467999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lagoa Vermelha 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5202,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.523006717999976,
+    "y": -28.185437262999983
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lajeado",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5203,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.366867999999954,
+    "y": -9.7471979999999689
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lajeado Grande",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5204,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.556843137999977,
+    "y": -28.990628774999948
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lajeado 2",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5205,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.984472149999931,
+    "y": -29.465319392999959
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Laranjal",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5206,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.482260082999971,
+    "y": -0.81196886799995127
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lechuga",
+    "Tensao": "500/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5207,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -60.014627624999946,
+    "y": -2.920238764999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Livramento 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5208,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.542785644999981,
+    "y": -30.862182615999984
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Londrina (ESUL)",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5209,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.141030889999968,
+    "y": -23.463184463999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lucas do Rio Verde",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5210,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.930131893999942,
+    "y": -13.010519132999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Luiz Gonzaga",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5211,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.305139901999951,
+    "y": -9.144646727999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Luziânia",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5212,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.83192545299994,
+    "y": -16.349086327999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Macaé Merchant",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5213,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.872970839999937,
+    "y": -22.305349933999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Macapá",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5214,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.121666666999943,
+    "y": 0.098333333000027778
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Maçambará",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5215,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -56.066528319999975,
+    "y": -29.15118408099994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Macéio II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5216,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.750232156999971,
+    "y": -9.5287660819999473
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Machadinho",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5217,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.789644719999956,
+    "y": -27.52739493699994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Manaus",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5218,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -59.991394042999957,
+    "y": -3.0814819329999636
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Marabá",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5219,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.024057489999961,
+    "y": -5.1991066029999615
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Marechal Rondon",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5220,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.638769914999955,
+    "y": -20.796303123999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Marimbondo",
+    "Tensao": "500/345",
+    "Situacao": "Existente",
+    "OBJECTID": 5221,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.203490999999985,
+    "y": -20.301207998999928
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Marimbondo 2",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5222,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.222144285999946,
+    "y": -20.253669761999959
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Maringá",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5223,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.987150747999976,
+    "y": -23.448353985999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Marmeleiro 2",
+    "Tensao": "525",
+    "Situacao": "Existente",
+    "OBJECTID": 5224,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.990588672999934,
+    "y": -33.139706211999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mascarenhas",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5225,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.91866831699997,
+    "y": -19.503260758999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Marechal Mascarenhas de Morais (Peixoto)",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5226,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.069447221999951,
+    "y": -20.286191665999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Matatu",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5227,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.483026998999946,
+    "y": -12.97754421999997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mesquita",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5228,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.547938314999953,
+    "y": -19.416722901999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Messias",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5229,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.842270263999978,
+    "y": -9.4022024509999369
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Miguel Reale",
+    "Tensao": "345/88/20",
+    "Situacao": "Existente",
+    "OBJECTID": 5230,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.625279664999937,
+    "y": -23.56245204399994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Milagres",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5231,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.93740633799996,
+    "y": -7.3070182209999643
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Milton Fornasaro",
+    "Tensao": "345/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5232,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.751952777999975,
+    "y": -23.528194443999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Miracema",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5233,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.520672092999973,
+    "y": -9.5415458409999587
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Miranda II",
+    "Tensao": "500/230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5234,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.535002344999953,
+    "y": -3.5661657409999634
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mirassol II",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5235,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.502161561999969,
+    "y": -20.867022873999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mirueira",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5236,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.891275856999982,
+    "y": -7.9550462729999367
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mirueira II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5237,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.891817183999933,
+    "y": -7.9561110819999499
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mogi",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5238,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.181980999999951,
+    "y": -23.548426998999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mogi das Cruzes",
+    "Tensao": "345/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5239,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.169605622999939,
+    "y": -23.50368296399995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mogi Mirim 3",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5240,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.065593640999964,
+    "y": -22.419896737999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Monte Claro",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5241,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.535567129999947,
+    "y": -29.013180475999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Montes Claros 2",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5242,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.824801587999957,
+    "y": -16.670256811999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Morro Agudo",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5243,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.155625872999963,
+    "y": -20.865099998999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Morro do Chapéu II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5244,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.396788604999983,
+    "y": -11.713920779999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mossoró II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5245,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.350094318999936,
+    "y": -5.1494860359999279
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mussuré II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5246,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.893842894999977,
+    "y": -7.1816677779999623
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE N.S. do Socorro",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5247,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.146419261999938,
+    "y": -10.875314171999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Narandiba",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5248,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.445057049999946,
+    "y": -12.953943848999927
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Natal II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5249,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.239658332999966,
+    "y": -5.8089249999999311
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Neves 1",
+    "Tensao": "500/345/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5250,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.103515624999943,
+    "y": -19.823486327999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nilo Peçanha",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5251,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.863918183999942,
+    "y": -22.690795439999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Niquelândia",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5252,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.489855625999951,
+    "y": -14.47261982699996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nobres",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5253,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -56.29717072699998,
+    "y": -14.725135100999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nordeste",
+    "Tensao": "345/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5254,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.381290319999948,
+    "y": -23.454215947999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Norte",
+    "Tensao": "345/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5255,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.558310999999946,
+    "y": -23.483140998999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Era 2",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5256,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.047076161999939,
+    "y": -19.703943140999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Iguaçu",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5257,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.539336470999956,
+    "y": -22.753583731999981
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Mutum",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5258,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -56.076061786999958,
+    "y": -13.828251082999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Ponte",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5259,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.700090999999986,
+    "y": -19.134347998999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Porto Primavera",
+    "Tensao": "440/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5260,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.964985356999932,
+    "y": -22.487837982999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Prata 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5261,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.613246755999967,
+    "y": -28.806863805999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Santa Rita",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5262,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.33536913599994,
+    "y": -29.823136588999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Oeste",
+    "Tensao": "440/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5263,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.412206882999953,
+    "y": -23.447240984999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Olindina",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5264,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.384121322999931,
+    "y": -11.318012374999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Onça Puma",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5265,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.091797238999959,
+    "y": -6.576750939999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Oriximiná",
+    "Tensao": "500/230/138/15,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5266,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.723900602999947,
+    "y": -1.5829201469999248
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Padre Fialho",
+    "Tensao": "345/138/20",
+    "Situacao": "Existente",
+    "OBJECTID": 5267,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.35791656899994,
+    "y": -20.354020050999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Palhoça (ELETROSUL)",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5268,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.691180555999949,
+    "y": -27.641377776999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Palmas",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5269,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.29459923099995,
+    "y": -10.177086771999939
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Palmeiras",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5270,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.940904449999948,
+    "y": -16.784286863999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paracatu 4",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5271,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.112924259999943,
+    "y": -17.069359544999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paraguaçu Paulista 2",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5272,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.591948233999972,
+    "y": -22.43651865399994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paraíso (RN)",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5273,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.004580555999951,
+    "y": -6.2365638889999673
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paranaíba",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5274,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.210272071999952,
+    "y": -18.37177541899996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paranaíta",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5275,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -56.842343839999955,
+    "y": -9.3535526259999529
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paranatinga",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5276,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.430543582999974,
+    "y": -14.158345962999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Parigot Souza",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5277,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.761962465999943,
+    "y": -25.252979112999981
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Passo Fundo",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5278,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.718808835999937,
+    "y": -27.483922117999953
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Passo Real",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5279,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.190612792999957,
+    "y": -29.018188475999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pato Branco",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5280,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.672473880999974,
+    "y": -26.210279021999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pau Ferro",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5281,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.020675347999941,
+    "y": -7.8592515809999668
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paulo Afonso III",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5282,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.196093481999981,
+    "y": -9.4015273679999609
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paulo Afonso IV",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5283,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.199627411999984,
+    "y": -9.4132007559999806
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Peixe 2",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5284,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.551612779999971,
+    "y": -12.163035079999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pelotas 3",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5285,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.407632769999964,
+    "y": -31.726216582999939
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Penedo",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5286,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.562398821999977,
+    "y": -10.242850874999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pici II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5287,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.583201186999929,
+    "y": -3.7444740729999353
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Picos",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5288,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.414049838999972,
+    "y": -7.1103247209999267
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pilarzinho",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5289,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.27547840699998,
+    "y": -25.371714492999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pimenta",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5290,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.793412477999937,
+    "y": -20.468258673999969
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pimenta Bueno",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5291,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -61.136323875999949,
+    "y": -11.606862436999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pinhalzinho 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5292,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.024093461999939,
+    "y": -26.822993201999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Piraju",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5293,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.378337999999985,
+    "y": -23.154279998999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pirapama II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5294,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.027745491999951,
+    "y": -8.2708133889999544
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pirapora 2",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5295,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.86999499999996,
+    "y": -17.339477998999939
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Piratininga",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5296,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.677404999999965,
+    "y": -23.69873599899995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Piratininga 2",
+    "Tensao": "345/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5297,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.682747169999971,
+    "y": -23.705646183999932
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pirineus",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5298,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.866195814999969,
+    "y": -16.385181270999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Piripiri",
+    "Tensao": "230/138/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5299,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.754779026999984,
+    "y": -4.2850210899999297
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pirituba",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5300,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.709394343999975,
+    "y": -23.500972799999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Vitória",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5301,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.293344752999985,
+    "y": -20.19342639499996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pituaçu",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5302,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.420556642999941,
+    "y": -12.937134124999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Planalto",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5303,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.231375253999943,
+    "y": -17.813278662999949
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Poções II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5304,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.376814485999944,
+    "y": -14.517401162999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pólo Petroquímico",
+    "Tensao": "230/69/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5305,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.389285749999942,
+    "y": -29.869731850999983
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ponta Grossa Sul",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5306,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.09952510599993,
+    "y": -25.175437956999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ponta Grossa Norte",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5307,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.140352777999965,
+    "y": -25.044602776999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ponte de Pedra",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5308,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.90837073299997,
+    "y": -17.588343352999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Alegre 1",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5309,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.171111110999959,
+    "y": -30.016666665999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Alegre 8",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5310,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.14181946399998,
+    "y": -30.008752782999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Alegre 4",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5311,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.228210377999972,
+    "y": -30.046813154999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Alegre 9",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5312,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.196039804999941,
+    "y": -29.971091779999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Alegre 6",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5313,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.142638888999954,
+    "y": -30.06461110999993
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Alegre 10",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5314,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.196462446999931,
+    "y": -30.047077435999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jardim Botânico",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5315,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.172323310999957,
+    "y": -30.042346388999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Porto Colômbia",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5316,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.574839014999952,
+    "y": -20.121144723999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Estrela",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5317,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.667041061999953,
+    "y": -19.120090439999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Franco",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5318,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.376869176999946,
+    "y": -6.3474672189999524
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Velho",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5319,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -63.818037611999955,
+    "y": -8.7973545929999659
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Posto Fiscal",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5320,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.564189730999942,
+    "y": -25.552986562999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Povo Novo",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5321,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.341141999999934,
+    "y": -31.92910999999998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Presidente Dutra",
+    "Tensao": "500/230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5322,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.481272546999946,
+    "y": -5.2689032719999318
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Quinta",
+    "Tensao": "230/138/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5323,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.268279183999937,
+    "y": -32.076800300999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Quixadá",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5324,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.92905097199997,
+    "y": -4.9533186379999279
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ramom Reberte Filho",
+    "Tensao": "345/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5325,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.523561110999935,
+    "y": -23.579408332999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Realeza Sul",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5326,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.51695964299995,
+    "y": -25.782442270999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Recife II",
+    "Tensao": "500/230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5327,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.03570734799996,
+    "y": -8.1150063179999279
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ribeirão",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5328,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.396908918999941,
+    "y": -8.4693329099999346
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ribeirãozinho",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5329,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.638140071999942,
+    "y": -16.474021495999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ribeirão Preto",
+    "Tensao": "500/440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5330,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.688002470999947,
+    "y": -21.202048314999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ribeiro Gonçalves",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5331,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.205920449999951,
+    "y": -7.6325837729999648
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio Branco I",
+    "Tensao": "230/138/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5332,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -67.730024415999935,
+    "y": -10.010785589999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio das Éguas",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5333,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.175287914999956,
+    "y": -13.854219716999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio Largo II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5334,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.838366961999952,
+    "y": -9.5035568539999531
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio Novo do Sul",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5335,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.881877766999935,
+    "y": -20.857523208999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio Verde Norte",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5336,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.862696368999934,
+    "y": -17.722776729999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rondonópolis",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5337,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.599280389999933,
+    "y": -16.470433511999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rurópolis",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5338,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.897021698999936,
+    "y": -4.0741808999999307
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Russas II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5339,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.99557299099996,
+    "y": -4.9491041749999454
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Salto",
+    "Tensao": "440/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5340,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.240627999999958,
+    "y": -23.178924998999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Salto Grande",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5341,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.998844873999985,
+    "y": -22.905337467999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Salto Osório",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5342,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.012818160999984,
+    "y": -25.539805547999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Salto Santiago",
+    "Tensao": "525",
+    "Situacao": "Existente",
+    "OBJECTID": 5343,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.622372221999967,
+    "y": -25.630127776999927
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Samuel",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5344,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -63.46015510899997,
+    "y": -8.7529121999999688
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Bárbara d´Oeste",
+    "Tensao": "440/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5345,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.41816462099996,
+    "y": -22.725908038999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Cabeça",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5346,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.929341157999943,
+    "y": -22.655668150999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Cruz 1",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5347,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.417490414999975,
+    "y": -29.750714744999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Maria",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5348,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.569520999999952,
+    "y": -1.3422999999999661
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Maria 3",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5349,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.875809537999942,
+    "y": -29.681192581999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Marta",
+    "Tensao": "230/138/69/44/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5350,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.430335390999971,
+    "y": -28.284220249999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Mônica",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5351,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.144166093999957,
+    "y": -25.363737354999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Rita II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5352,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.009200999999962,
+    "y": -7.1563049999999748
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Rosa 1",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5353,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.457667916999981,
+    "y": -27.877113146999932
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Vitoria do Palmar 2",
+    "Tensao": "525/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5354,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.301539504999937,
+    "y": -33.474388603999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santo Angelo",
+    "Tensao": "440/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5355,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.253905999999972,
+    "y": -23.586120998999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santo Angelo 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5356,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.285772999999949,
+    "y": -28.303456998999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santo Antônio de Jesus",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5357,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.220627096999976,
+    "y": -12.972778263999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Borja 2",
+    "Tensao": "230/69/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5358,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.996255847999976,
+    "y": -28.690363671999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Gonçalo do Pará",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5359,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.840886336999972,
+    "y": -20.073184592999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Gotardo 2",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5360,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.014561459999982,
+    "y": -19.337505223999926
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São João do Piauí",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5361,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.229004069999974,
+    "y": -8.3581450929999619
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São José",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5362,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.332281570999953,
+    "y": -22.748631350999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São José dos Campos",
+    "Tensao": "230/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5363,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.889623073999985,
+    "y": -23.201825003999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Luis II",
+    "Tensao": "500/230/18,3",
+    "Situacao": "Existente",
+    "OBJECTID": 5364,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.316697285999965,
+    "y": -2.7166823569999679
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Mateus do Sul",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5365,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.402015755999969,
+    "y": -25.85341726799993
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Simão",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5366,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.491820999999959,
+    "y": -19.022094998999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Vicente do Sul",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5367,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.697160301999986,
+    "y": -29.695215681999969
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sapeaçu",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5368,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.185451673999978,
+    "y": -12.717160864999926
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sarandi",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5369,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.826834856999938,
+    "y": -23.443386712999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Scharlau",
+    "Tensao": "230/138/69/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5370,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.14872902299993,
+    "y": -29.717471993999936
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Senhor do Bonfim II",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5371,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.187999999999931,
+    "y": -10.44399999999996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Serra da Mesa",
+    "Tensao": "500/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5372,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.300459566999962,
+    "y": -13.826908291999928
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Serra da Mesa 2",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5373,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.046386999999982,
+    "y": -13.765502999999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sete Lagoas 4",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5374,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.324774107999986,
+    "y": -19.517668769999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Siderópolis",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5375,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.411193847999982,
+    "y": -28.602294920999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sidrolândia 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5376,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.92593925999995,
+    "y": -20.894897742999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Silves",
+    "Tensao": "500/138/20",
+    "Situacao": "Existente",
+    "OBJECTID": 5377,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -58.275102298999968,
+    "y": -2.7088514819999432
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sobradinho",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5378,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.827819365999972,
+    "y": -9.4362076099999399
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sobral II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5379,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.382195898999953,
+    "y": -3.6999015119999399
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sobral III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5380,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.298599102999958,
+    "y": -3.6914220799999384
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sorriso",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5381,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.763188138999965,
+    "y": -12.575055577999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Suape II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5382,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.046958379999978,
+    "y": -8.3901716349999447
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Samambaia",
+    "Tensao": "500/345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5383,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.172550862999969,
+    "y": -15.925087296999948
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sul",
+    "Tensao": "345/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5384,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.521006825999962,
+    "y": -23.699379228999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sumaré",
+    "Tensao": "440/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5385,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.286734168999942,
+    "y": -22.866933900999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Taguaruçu",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5386,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.000912461999974,
+    "y": -22.538629125999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tapera 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5387,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.864519798999936,
+    "y": -28.666975642999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Taquara",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5388,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.794826610999962,
+    "y": -29.655894837999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Taquaril",
+    "Tensao": "345/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5389,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.85208228099998,
+    "y": -19.931263930999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tauá II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5390,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.275349878999975,
+    "y": -6.0014585639999609
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Taubaté",
+    "Tensao": "500/440/230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5391,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.586387762999948,
+    "y": -23.063224502999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Teresina",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5392,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.800794466999946,
+    "y": -5.1286048289999258
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Fortaleza",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5393,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.540972221999937,
+    "y": -3.8284777779999786
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Teresina III",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5394,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.68774899999994,
+    "y": -5.0886789999999564
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Leste",
+    "Tensao": "345/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5395,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.468531693999978,
+    "y": -23.595511212999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tijuco Preto",
+    "Tensao": "750/500/345",
+    "Situacao": "Existente",
+    "OBJECTID": 5396,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.273171666999986,
+    "y": -23.709605995999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Timóteo 1",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5397,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.636147802999972,
+    "y": -19.538224654999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Acesita",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5398,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.637446999999952,
+    "y": -19.534506998999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tacaimbó",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5399,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.223047849999944,
+    "y": -8.3307429059999549
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Transamazônica",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5400,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.715127920999976,
+    "y": -3.7067197899999655
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Três Irmãos",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5401,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.302648972999975,
+    "y": -20.674096392999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Três Marias",
+    "Tensao": "345/289/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5402,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.257385253999985,
+    "y": -18.212890623999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Trindade",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5403,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.577261354999962,
+    "y": -16.619687130999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tucuruí",
+    "Tensao": "500/230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5404,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.65461828499997,
+    "y": -3.8242858489999776
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Uberaba",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5405,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.208476706999932,
+    "y": -25.476780733999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Umbará",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5406,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.317432334999978,
+    "y": -25.592046480999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Conversora Uruguaiana",
+    "Tensao": "230/132/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5407,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -57.005003124999973,
+    "y": -29.805642190999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Charqueadas",
+    "Tensao": "230/69/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5408,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.622499470999969,
+    "y": -29.952013259999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Utinga",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5409,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.379949095999962,
+    "y": -1.3354743309999435
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Várzea da Palma 1",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5410,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.737098783999954,
+    "y": -17.592737163999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Venâncio Aires",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5411,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.156642257999977,
+    "y": -29.633988690999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Venda das Pedras",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5412,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.794457049999949,
+    "y": -22.734630912999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Veracel",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5413,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.408193491999953,
+    "y": -16.086327921999953
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Vespasiano 2",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5414,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.907594705999941,
+    "y": -19.739034740999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Viamão 3",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5415,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.064070590999961,
+    "y": -30.036705995999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Viana",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5416,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.437019054999951,
+    "y": -20.369910678999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Viana 2",
+    "Tensao": "500/345",
+    "Situacao": "Existente",
+    "OBJECTID": 5417,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.507550438999942,
+    "y": -20.382344339999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Videira",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5418,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.092305556999975,
+    "y": -26.998955795999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Vila do Conde",
+    "Tensao": "500/230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5419,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.732470508999938,
+    "y": -1.5725859319999245
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Vilhena",
+    "Tensao": "230/69/34,5/22/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5420,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -60.264407970999969,
+    "y": -12.716800157999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Volta Grande",
+    "Tensao": "345/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5421,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.22422443399995,
+    "y": -20.039947311999981
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Xanxerê",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5422,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.393009973999938,
+    "y": -26.863287065999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Xavantes",
+    "Tensao": "345",
+    "Situacao": "Existente",
+    "OBJECTID": 5423,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.723389105999956,
+    "y": -23.658087957999953
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Xavantes",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5424,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.259720690999984,
+    "y": -16.580529179999928
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Xingó",
+    "Tensao": "500/18",
+    "Situacao": "Existente",
+    "OBJECTID": 5425,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.795752080999932,
+    "y": -9.6329754729999308
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Xingu",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5426,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.693249842999933,
+    "y": -3.1065664999999285
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Osório 2",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5427,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.314949999999953,
+    "y": -29.895433332999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Porto Alegre 13",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5428,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.224299999999971,
+    "y": -30.095549999999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Miltônia III (Paragominas)",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5429,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.736346794999974,
+    "y": -3.2504785249999486
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Londrina",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5430,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.237965505999966,
+    "y": -23.275806539999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Segredo",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5431,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.096403039999984,
+    "y": -25.78842717699996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Miramar II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5432,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.486803842999961,
+    "y": -1.411007174999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Guarita",
+    "Tensao": "230/69/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5433,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.570685370999968,
+    "y": -27.612518153999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Canoas 1",
+    "Tensao": "230/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5434,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.19050202699998,
+    "y": -29.948519075999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Complexo Industrial Automotivo de Gravataí",
+    "Tensao": "230/23",
+    "Situacao": "Existente",
+    "OBJECTID": 5435,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.915562999999963,
+    "y": -29.934882999999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campo Comprido",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5436,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.369520999999963,
+    "y": -25.431118999999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Siderúrgica Guaíra",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5437,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.420199999999966,
+    "y": -25.566004999999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santa Quitéria",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5438,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.311808999999982,
+    "y": -25.46110699999997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Salto Caxias (Governador José Richa)",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5439,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.497899999999959,
+    "y": -25.543215999999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Imperatriz",
+    "Tensao": "500/230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5440,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.474117453999952,
+    "y": -5.4227188649999789
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Luís I",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5441,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.255195999999955,
+    "y": -2.5599489999999605
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Luís III",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5442,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.171463999999958,
+    "y": -2.5171659999999747
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Uruguaiana 5",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5443,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -57.004027075999943,
+    "y": -29.806884904999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Anhanguera",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5444,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.235291999999959,
+    "y": -16.790698999999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Goiânia Leste",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5445,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.235895999999968,
+    "y": -16.683881999999926
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Carbocloro",
+    "Tensao": "230/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5446,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.414299999999969,
+    "y": -23.867118999999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Petrobras Cubatão",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5447,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.431364566999946,
+    "y": -23.874582338999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bom Jesus da Lapa",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5448,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.352311999999984,
+    "y": -13.306289999999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE João Monlevade 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5449,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.13470676999998,
+    "y": -19.816790410999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Joairam",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5450,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.981105999999954,
+    "y": -8.0814259999999649
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Brasnorte",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5451,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -58.069264999999973,
+    "y": -12.87561599999998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Coteminas",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5452,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.895700999999974,
+    "y": -7.2800419999999804
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cotegipe",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5453,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.42208537099998,
+    "y": -12.794346021999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Peritoró",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5454,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.330944106999937,
+    "y": -4.3684097499999552
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Repar",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5455,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.362704999999949,
+    "y": -25.579513999999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Fernando Gasparian",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5456,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.678703544999962,
+    "y": -23.699338285999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ford",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5457,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.276894999999968,
+    "y": -12.669554999999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itagibá",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5458,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.71649199999996,
+    "y": -14.23483699999997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Goianinha",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5459,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.08878999999996,
+    "y": -7.588359999999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Usiminas",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5460,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.547802999999931,
+    "y": -19.484755999999948
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itabaianinha",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5461,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.718733945999929,
+    "y": -11.288164331999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Itapebi",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5462,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.584648999999956,
+    "y": -15.969451999999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Atlântico",
+    "Tensao": "500/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5463,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.742658999999946,
+    "y": -22.908509999999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Zona Oeste",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5464,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.713776507999967,
+    "y": -22.873716696999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio Verde",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5465,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.883695999999986,
+    "y": -17.76117499999998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio do Sul",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5466,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.608979830999942,
+    "y": -27.163856548999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Verona",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5467,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.45434199999994,
+    "y": -18.743472999999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Missões",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5468,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.932691999999975,
+    "y": -28.38835899999998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sabará 3",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5469,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.840450999999973,
+    "y": -19.760793999999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santo Angelo",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5470,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.326066999999966,
+    "y": -28.279767999999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Sinop",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5471,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.521637999999939,
+    "y": -11.984032999999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Teresina II",
+    "Tensao": "500/230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5472,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.726011999999969,
+    "y": -5.2579369999999699
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Uruguaiana",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5473,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -56.999017999999978,
+    "y": -29.764480999999932
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Boa Esperança",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5474,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.566969999999969,
+    "y": -6.7477859999999623
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Fortaleza",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5475,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.864802655999938,
+    "y": -3.6822090439999329
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Governador Bento Munhoz da Rocha Netto",
+    "Tensao": "500/16,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5476,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.669156999999984,
+    "y": -26.006925999999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Furnas",
+    "Tensao": "345/138/15/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5477,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.319149999999979,
+    "y": -20.66677999999996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Jaguará",
+    "Tensao": "345/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5478,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.438128999999947,
+    "y": -20.01914499999998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Mario Lago",
+    "Tensao": "345/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5479,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.876409999999964,
+    "y": -22.307884999999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Norte Fluminense",
+    "Tensao": "345",
+    "Situacao": "Existente",
+    "OBJECTID": 5480,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.879596999999933,
+    "y": -22.303305999999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Viana",
+    "Tensao": "345/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5481,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.437161999999944,
+    "y": -20.379026999999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Resende",
+    "Tensao": "500/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5482,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.515063999999938,
+    "y": -22.500804999999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Manso",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5483,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.789014999999949,
+    "y": -14.872787999999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Peixe Angical",
+    "Tensao": "500/138/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5484,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.392583999999943,
+    "y": -12.22744199999994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Presidente Figueiredo",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5485,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -59.931727999999964,
+    "y": -2.0507099999999809
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gravataí",
+    "Tensao": "525/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5486,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.063152020999951,
+    "y": -29.88196938599998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jaguarari",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5487,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.858160980999969,
+    "y": -9.8657618039999306
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Margem Direita",
+    "Tensao": "500/220",
+    "Situacao": "Existente",
+    "OBJECTID": 5488,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.608965357999978,
+    "y": -25.419446992999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Bento Mineração",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5489,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.476332131999982,
+    "y": -19.968730946999926
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Solvay",
+    "Tensao": "440/88",
+    "Situacao": "Existente",
+    "OBJECTID": 5490,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.374604999999974,
+    "y": -23.76898099999994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Juína",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5491,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -58.74172778999997,
+    "y": -11.293020153999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Dardanelos",
+    "Tensao": "230/34,5/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5492,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -59.442882999999938,
+    "y": -10.159842999999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Juba",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5493,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -57.914672999999937,
+    "y": -14.835541999999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Várzea Grande 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5494,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -56.186345999999958,
+    "y": -15.712021999999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Parecis",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5495,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -58.963935505999984,
+    "y": -13.071906073999969
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Cristiano Rocha",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5496,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -60.031999999999982,
+    "y": -2.8929999999999723
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mauá III",
+    "Tensao": "230/138/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5497,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -59.930688142999941,
+    "y": -3.1173652819999802
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Inocência",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5498,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.400348234999967,
+    "y": -19.652336721999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ilha Solteira 2",
+    "Tensao": "440/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5499,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.417154367999956,
+    "y": -20.319833830999983
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mauá",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5500,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.69261599999993,
+    "y": -24.040112999999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Foz do Iguaçu Norte",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5501,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.544509999999946,
+    "y": -25.487948999999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Santo Antonio do Jari",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5502,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -52.517099999999971,
+    "y": -0.65179399999993848
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Ferreira Gomes",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5503,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.19611567499993,
+    "y": 0.86047380000002249
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Xinguara II",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5504,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.921187775999954,
+    "y": -7.0729205449999313
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Castanhal",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5505,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.786711611999976,
+    "y": -1.2957664159999354
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Marabá (Celpa)",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5506,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.082766999999933,
+    "y": -5.341782999999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Alumar",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5507,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.329478815999948,
+    "y": -2.7023099149999439
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pecém II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5508,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.873265566999976,
+    "y": -3.6007060809999416
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Trairí",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5509,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.29583499599994,
+    "y": -3.2419475889999489
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Quirinópolis 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5510,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.577170999999964,
+    "y": -18.485319999999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Barra dos Coqueiros",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5511,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.986381999999935,
+    "y": -18.728009999999927
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Caçu",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5512,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.14774099999994,
+    "y": -18.533551999999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itaguaçu",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5513,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.670647999999971,
+    "y": -19.00812099999996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Aquiraz II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5514,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.401517999999953,
+    "y": -3.9275799999999776
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Edéia",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5515,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.911294999999939,
+    "y": -17.29725499999995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE São Salvador",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5516,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.23521999999997,
+    "y": -12.80267699999996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Estreito",
+    "Tensao": "500/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5517,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.460698999999977,
+    "y": -6.5826529999999366
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Suzano",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5518,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.563460999999961,
+    "y": -5.4148229999999558
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Geranorte",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5519,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.557053999999937,
+    "y": -3.5663349999999809
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santo Antonio dos Lopes",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5520,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.351079981999931,
+    "y": -4.821325073999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Quixeré",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5521,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.785396999999932,
+    "y": -5.0347839999999451
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UEE Formosa",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5522,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.031306173999951,
+    "y": -2.9186590959999421
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Massapê II",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5523,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.342842999999959,
+    "y": -3.5628119999999512
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UEE Icaraizinho",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5524,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.678951573999939,
+    "y": -3.0188824109999359
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Floresta II",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5525,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.342367574999969,
+    "y": -8.7490162709999595
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tacaratu",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5526,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.132564999999943,
+    "y": -9.059571999999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Icaraí",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5527,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.601643080999963,
+    "y": -3.0950594869999577
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Faísa",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5528,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.260419999999954,
+    "y": -3.3413749999999709
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTGN Jesus Soares Pereira",
+    "Tensao": "230/18",
+    "Situacao": "Existente",
+    "OBJECTID": 5529,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.819413483999938,
+    "y": -5.3806593519999524
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Natal III",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5530,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.317335999999955,
+    "y": -5.871563999999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Areia Branca",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5531,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.916292891999944,
+    "y": -4.9638284269999531
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Miassaba 3",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5532,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.490027595999948,
+    "y": -5.1473186849999593
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE União dos Ventos",
+    "Tensao": "230/69/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5533,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.886330396999938,
+    "y": -5.0934305629999699
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Norfil",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5534,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.900438999999949,
+    "y": -7.1959359999999606
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio Brilhante",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5535,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.818453999999974,
+    "y": -21.540156999999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Umuarama Sul",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5536,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.286769602999982,
+    "y": -23.792671223999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cascavel Norte",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5537,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.448100999999951,
+    "y": -24.883689999999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cerro Chato",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5538,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.705401053999935,
+    "y": -30.814443794999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Energia Pecém",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5539,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.872652999999957,
+    "y": -3.5820109999999659
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Termoceará",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5540,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.871526506999942,
+    "y": -3.6937103729999308
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Carcará II",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5541,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.996597219999956,
+    "y": -4.9815737109999532
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Galinhos",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5542,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.163674999999955,
+    "y": -5.1168879999999604
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Alegria",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5543,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.383186999999964,
+    "y": -5.1244099999999548
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ijuí 2",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5544,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.903694999999971,
+    "y": -28.363765999999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Epasa",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5545,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.921303999999964,
+    "y": -7.2080545449999249
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Aldeia",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5546,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.01831599999997,
+    "y": -7.8587009999999395
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Angelim II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5547,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.297510999999929,
+    "y": -8.8954089999999724
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Suape III",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5548,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.01600499999995,
+    "y": -8.3975509999999645
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Termopernambuco",
+    "Tensao": "230/18",
+    "Situacao": "Existente",
+    "OBJECTID": 5549,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.968778999999984,
+    "y": -8.4043729999999641
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Suape II",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5550,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.02578699999998,
+    "y": -8.3576869999999417
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Abreu e Lima",
+    "Tensao": "230/69/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5551,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.031852472999958,
+    "y": -8.3736430809999547
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Maceió (Napoleão Moreira)",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5552,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.785494999999969,
+    "y": -9.578837999999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Zebu",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5553,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.201064999999971,
+    "y": -9.3579359999999383
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Caxias 6",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5554,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.122910588999957,
+    "y": -29.161861789999932
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Pedra do Cavalo",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5555,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.997822999999983,
+    "y": -12.587413999999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Petrópolis 2",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5556,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.005385244999957,
+    "y": -29.352115650999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Muricy",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5557,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.27775158999998,
+    "y": -12.663112913999953
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pólo",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5558,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.274104695999938,
+    "y": -12.659247463999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Arembepe",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5559,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.302532999999983,
+    "y": -12.690769999999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Global",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5560,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.481722340999966,
+    "y": -12.727912499999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Celso Furtado",
+    "Tensao": "230/21",
+    "Situacao": "Existente",
+    "OBJECTID": 5561,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.571186507999982,
+    "y": -12.703182960999982
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Scharlau 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5562,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.150973179999937,
+    "y": -29.717331772999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Castertech",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5563,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.147979642999985,
+    "y": -29.146369483999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lagoa dos Barros",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5564,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.294617915999936,
+    "y": -29.961376495999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Baguari",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5565,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.12328599999995,
+    "y": -19.013204999999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gaspar 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5566,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.021394116999943,
+    "y": -26.874634987999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santos Dumont 2",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5567,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.534292999999934,
+    "y": -21.474312999999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Itutinga",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5568,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.62486599999994,
+    "y": -21.293007999999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Acaraú III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5569,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.105393196999955,
+    "y": -2.9367084599999771
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Bacabeira",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5570,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.296116646999963,
+    "y": -3.0211483219999309
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Parnaíba III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5571,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.76443437699993,
+    "y": -3.1238114749999681
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tianguá II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5572,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.029458614999953,
+    "y": -3.7719753529999593
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ibiapina II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5573,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.18840427899994,
+    "y": -3.8994450199999733
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ourolândia II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5574,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.339744601999939,
+    "y": -10.873810635999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Curral Novo do Piauí II",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5575,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.638683799999967,
+    "y": -8.0340787499999351
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Garibaldi",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5576,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.00347319399998,
+    "y": -27.636887196999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Terminal Rio",
+    "Tensao": "800/500",
+    "Situacao": "Existente",
+    "OBJECTID": 5577,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.769395594999935,
+    "y": -22.654470203999949
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Linhares",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5578,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.106903666999983,
+    "y": -19.402704700999948
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Mateus 2",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5579,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.892122860999962,
+    "y": -18.754938054999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE GV do Brasil",
+    "Tensao": "230/34,5/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5580,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.410804316999986,
+    "y": -22.922323221999932
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Toyota",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5581,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.457238535999977,
+    "y": -23.37988136499996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Castertech 2",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5582,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.157560428999943,
+    "y": -29.14779968299996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE CBA 1",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5583,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.264323182999931,
+    "y": -23.537728809999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Baixada Fluminense",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5584,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.64362648499997,
+    "y": -22.720309468999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Baixo Iguaçu",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5585,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.677965847999985,
+    "y": -25.508521385999927
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Teixeira de Freitas II",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5586,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.730314145999955,
+    "y": -17.569811433999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pindaí II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5587,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.61703525799993,
+    "y": -14.41939959299998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lajeado 3",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5588,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.902046860999974,
+    "y": -29.437281786999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Mossoró IV",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5589,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.291277982999929,
+    "y": -4.8539775719999625
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Restinga",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5590,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.163585247999947,
+    "y": -30.124300584999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Chapada III",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5591,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.683014992999972,
+    "y": -7.390993635999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Chapada I",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5592,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.715689357999963,
+    "y": -7.5621104649999324
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Chapada II",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5593,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.757048769999983,
+    "y": -7.4764565689999358
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Touros",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5594,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.656714447999946,
+    "y": -5.1818146369999454
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Lagoa Nova II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5595,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.525332035999952,
+    "y": -6.0619502319999583
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Rio Grande II",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5596,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -45.490765936999935,
+    "y": -12.843978987999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Vega do Sul",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5597,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -48.630304556999931,
+    "y": -26.292009210999936
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Piracicaba",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5598,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.571197468999969,
+    "y": -22.634354640999959
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Chapada IV",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5599,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.676232166999966,
+    "y": -7.7713439889999449
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campo Formoso",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5600,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.613203226999985,
+    "y": -10.584048119999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Klabin Monte Alegre",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5601,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.601654634999932,
+    "y": -24.291539390999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Igaporã II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5602,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.624719089999985,
+    "y": -14.030245426999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Tabocas do Brejo Velho",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5603,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.107601831999943,
+    "y": -12.583666507999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Parnaíba",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5604,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.352456848999964,
+    "y": -4.8207545489999575
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Jaboatão II",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5605,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -34.986276000999965,
+    "y": -8.1780865639999547
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Riachão",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5606,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.444507999999985,
+    "y": -5.5522059999999556
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Porto do Itaqui",
+    "Tensao": "230/19",
+    "Situacao": "Existente",
+    "OBJECTID": 5607,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.337234787999932,
+    "y": -2.5891243509999526
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cimentos Portland",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5608,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.317837715999985,
+    "y": -25.200808713999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Taíba",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5609,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.88855898099996,
+    "y": -3.5465791569999396
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Replan",
+    "Tensao": "440/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5610,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -47.112451999999962,
+    "y": -22.735031999999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Pernambuco III",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5611,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.019891439999981,
+    "y": -7.8636020309999708
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Campina Grande",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5612,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.908407990999933,
+    "y": -7.2953385489999505
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Era Silicon",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5613,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.033755909999968,
+    "y": -19.587297808999949
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Euzébio da Rocha",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5614,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.432053273999941,
+    "y": -23.874934303999964
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Piratininga",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5615,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -46.677782101999981,
+    "y": -23.699595589999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Lima 6",
+    "Tensao": "345/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5616,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.863659942999959,
+    "y": -20.190906161999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Curitiba Norte",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5617,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.317843656999969,
+    "y": -25.234552014999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Itarema V",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5618,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.889398203999974,
+    "y": -2.9655208509999511
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Gentio do Ouro I",
+    "Tensao": "230/138/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5619,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.660275930999944,
+    "y": -11.117001743999936
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Teles Pires",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5620,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -56.773427000999959,
+    "y": -9.3411089259999471
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Salto",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5621,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.166407978999985,
+    "y": -18.810135326999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Caçu I",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5622,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.008205527999962,
+    "y": -18.789539108999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Barra dos Coqueiros",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5623,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.001826979999976,
+    "y": -18.722963892999928
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Salto do Rio Verdinho",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5624,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.751714051999954,
+    "y": -19.143465651999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Eng. José Luiz Müller de Godoy Pereira (Foz do Rio Claro)",
+    "Tensao": "230/13,8",
+    "Situacao": "Existente",
+    "OBJECTID": 5625,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.646359608999944,
+    "y": -19.120413592999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pimental",
+    "Tensao": "230/69",
+    "Situacao": "Existente",
+    "OBJECTID": 5626,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.899976052999932,
+    "y": -3.4382849249999481
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Garabi I",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5627,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -55.671765304999951,
+    "y": -28.254920449999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pontal",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5628,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.802419816999986,
+    "y": -30.279268391999949
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paranatama",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5629,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.732660386999953,
+    "y": -8.9082128579999562
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Clemente",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5630,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.736131823999983,
+    "y": -8.7594514389999745
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Candiota",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5631,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.690494309999963,
+    "y": -31.571026189999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Basílio",
+    "Tensao": "230/138",
+    "Situacao": "Existente",
+    "OBJECTID": 5632,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.580444111999952,
+    "y": -7.3976318729999662
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Chapadinha I",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5633,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.625146319999942,
+    "y": -8.002598169999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Babilônia",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5634,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.228825471999983,
+    "y": -10.97033169599996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cutia",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5635,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.928388446999975,
+    "y": -5.1195369469999719
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Santo Inácio",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5636,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -37.305960063999976,
+    "y": -4.7869349249999686
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pedra Cheirosa",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5637,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -39.737383487999978,
+    "y": -3.0031867289999354
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Coletora Lapa",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5638,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -43.352425493999931,
+    "y": -13.30991936199996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Ventos da Bahia II",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5639,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.490455405999967,
+    "y": -11.981513740999958
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Delfina",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5640,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.931200516999979,
+    "y": -10.007663805999925
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cristalândia",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5641,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.532763190999958,
+    "y": -14.031708885999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Nova Olinda",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5642,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.556424772999947,
+    "y": -8.1938094329999558
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Pampa Sul",
+    "Tensao": "525",
+    "Situacao": "Existente",
+    "OBJECTID": 5643,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -53.780740766999941,
+    "y": -31.451090428999976
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Paulino Neves",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5644,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.59615665299998,
+    "y": -2.7283505359999367
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Casa Nova II",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5645,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.028075393999984,
+    "y": -9.2863428999999655
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Amazonas",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5646,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.937752899999964,
+    "y": -5.0314493469999775
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE São Miguel",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5647,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -35.786062647999984,
+    "y": -5.2674732089999452
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Serra Azul",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5648,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.458040349999976,
+    "y": -11.860729913999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE Cachoeira Caldeirão",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5649,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -51.291269616999955,
+    "y": 0.85206858500004046
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Pedra Branca",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5650,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.089792476999946,
+    "y": -9.8570455909999737
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Morro do Chapéu Sul",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5651,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.315536693999945,
+    "y": -11.593246698999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Campo Largo",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5652,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.467161334999957,
+    "y": -10.455750622999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Poções III",
+    "Tensao": "500/230",
+    "Situacao": "Existente",
+    "OBJECTID": 5653,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.384987308999939,
+    "y": -14.515367839999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE GPEXPAN",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5654,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.632396553999968,
+    "y": -14.39502839599993
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UTE Prosperidade I",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5655,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -38.208496128999968,
+    "y": -12.499394020999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Medianeira Norte",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5656,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -54.09523373899998,
+    "y": -25.271845937999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Salobo",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5657,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.51461970899993,
+    "y": -5.7860639419999416
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Serra Norte",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5658,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.142430687999934,
+    "y": -6.0270161359999292
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Araças",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5659,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.60935817099994,
+    "y": -14.102851710999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Morrão",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5660,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.681483189999938,
+    "y": -14.128680121999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Caetité 1, 2 e 3",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5661,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.493327848999968,
+    "y": -14.186253572999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Caetité A",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5662,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.478715407999971,
+    "y": -14.138099207999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Klabin Celulose",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5663,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -50.735089388999938,
+    "y": -24.252682728999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE UHE São Manoel",
+    "Tensao": "500",
+    "Situacao": "Existente",
+    "OBJECTID": 5664,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -57.018701679999936,
+    "y": -9.1808508189999429
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Cacimbas",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5665,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.043312215999947,
+    "y": -3.906849096999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Horizonte MP",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5666,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -44.083652622999978,
+    "y": -12.604401035999956
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Juazeiro Solar",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5667,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -40.48884447599994,
+    "y": -9.5322883759999399
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Umburanas",
+    "Tensao": "230/34,5",
+    "Situacao": "Existente",
+    "OBJECTID": 5668,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.568757674999972,
+    "y": -10.671680764999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Serra da Babilônia",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5669,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -41.328987574999985,
+    "y": -11.103294225999946
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Laranjeiras",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5670,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -42.666802934999964,
+    "y": -11.067866278999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Currais Novos II",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5671,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -36.545282665999935,
+    "y": -6.2649512359999449
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "SE Curitiba Centro",
+    "Tensao": "230",
+    "Situacao": "Existente",
+    "OBJECTID": 5672,
+    "CEG": null
+   },
+   "geometry": {
+    "x": -49.253158649999932,
+    "y": -25.436979224999959
+   }
+  }
+ ]
+}

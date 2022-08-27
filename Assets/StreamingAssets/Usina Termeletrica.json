@@ -1,0 +1,4340 @@
+{
+ "features": [
+  {
+   "attributes": {
+    "Nome": "Aureliano Chaves (Antiga Ibirité)",
+    "UF1": "MG",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 226000,
+    "INIC_OPER": 1026086400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1584,
+    "CEG": "UTE.GN.MG.001096-0.01"
+   },
+   "geometry": {
+    "x": -44.088867553999933,
+    "y": -19.986565665999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Melgaço",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 720,
+    "INIC_OPER": 915148800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1585,
+    "CEG": "UTE.PE.PA.027090-3.01"
+   },
+   "geometry": {
+    "x": -50.705812331999937,
+    "y": -1.7979541089999316
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Castanho",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 6000,
+    "INIC_OPER": 899251200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1586,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -60.358590553999932,
+    "y": -3.8148986649999301
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Urucurituba (Tabocal)",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2370,
+    "INIC_OPER": 715305600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1587,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -58.147756553999955,
+    "y": -3.1218426649999742
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santa Rita do Weil",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1050,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1588,
+    "CEG": "UTEPEAM029213-3"
+   },
+   "geometry": {
+    "x": -69.441234553999948,
+    "y": -4.4938196649999327
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Normândia",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1220,
+    "INIC_OPER": 1001894400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1589,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -59.613534553999955,
+    "y": 3.8849903350000545
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Mauá Parte III Bloco Iranduba",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 50000,
+    "INIC_OPER": 1289865600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1590,
+    "CEG": "UTE.PE.AM.030274-0.01"
+   },
+   "geometry": {
+    "x": -60.470934553999939,
+    "y": -3.0911196649999511
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São Jerônimo",
+    "UF1": "RS",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 20000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1591,
+    "CEG": "UTECMRS026829-1"
+   },
+   "geometry": {
+    "x": -51.725534553999978,
+    "y": -29.963787665999973
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São João da Baliza",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1592,
+    "CEG": "UTEPERR028669-9"
+   },
+   "geometry": {
+    "x": -59.899423553999952,
+    "y": 0.95010133500005622
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Rica",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 9250,
+    "INIC_OPER": 1138665600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1593,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -52.108867886999974,
+    "y": -10.024898553999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Gaúcha do Norte",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1970,
+    "INIC_OPER": 1049155200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1594,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -53.244978997999965,
+    "y": -13.167954108999936
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Tabatinga",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 15020,
+    "INIC_OPER": 412905600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1595,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -69.929145553999945,
+    "y": -4.2535096649999673
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "CNH Machadinho",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 15000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1596,
+    "CEG": "UTEPERO032291-1"
+   },
+   "geometry": {
+    "x": -61.99472222199995,
+    "y": -9.4163888889999612
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Tepequem",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 700,
+    "INIC_OPER": 941414400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1597,
+    "CEG": "UTE.PE.RR.002834-7.01"
+   },
+   "geometry": {
+    "x": -61.370999999999981,
+    "y": 3.6520000000000437
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Metalurgia Caraíba",
+    "UF1": "BA",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 18000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1598,
+    "CEG": "UTE.GN.BA.028255-3.01"
+   },
+   "geometry": {
+    "x": -38.367689999999982,
+    "y": -12.621124997999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Potiguar",
+    "UF1": "RN",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 53120,
+    "INIC_OPER": 1236038400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1599,
+    "CEG": "UTE.PE.RN.028655-9.01"
+   },
+   "geometry": {
+    "x": -35.293312331999971,
+    "y": -5.8706207759999529
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Parnaíba IV",
+    "UF1": "MA",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 56277,
+    "INIC_OPER": 1386892800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1600,
+    "CEG": "UTEGNMA031193-6"
+   },
+   "geometry": {
+    "x": -44.34364566499994,
+    "y": -4.8141207759999247
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Nova Olinda do Norte",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 6164,
+    "INIC_OPER": 1036108800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1601,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -59.082756553999957,
+    "y": -3.8873986649999779
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Cuiabá (Antiga Mário Covas)",
+    "UF1": "MT",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 529200,
+    "INIC_OPER": 978307200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1602,
+    "CEG": "UTE.GN.MT.027003-2.01"
+   },
+   "geometry": {
+    "x": -56.09699999999998,
+    "y": -15.595999999999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Lago do Beruri",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 64.799999999999997,
+    "INIC_OPER": 1177977600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1603,
+    "CEG": "UTE.PE.AM.029490-0.01"
+   },
+   "geometry": {
+    "x": -61.37157111199997,
+    "y": -3.8945130549999476
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Serra do Navio",
+    "UF1": "AP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 21600,
+    "INIC_OPER": 1226102400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1604,
+    "CEG": "UTE.PE.AP.029704-6.01"
+   },
+   "geometry": {
+    "x": -51.992534553999974,
+    "y": 0.89999033500004089
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Aparecida Parte III",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2400,
+    "INIC_OPER": 870393600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1605,
+    "CEG": "UTEPEAM030276-7"
+   },
+   "geometry": {
+    "x": -60.032782808999968,
+    "y": -3.1297767489999728
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Novo Remanso",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2300,
+    "INIC_OPER": 1125532800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1606,
+    "CEG": "UTEPEAM001591-1"
+   },
+   "geometry": {
+    "x": -59.012478553999983,
+    "y": -3.2162876649999248
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Cosipar",
+    "UF1": "PA",
+    "COMBUST": "Gás do Alto Forno - CM",
+    "P_OUT_KW": 14000,
+    "INIC_OPER": 949363200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1607,
+    "CEG": "UTECMPA027793-2"
+   },
+   "geometry": {
+    "x": -49.108534553999959,
+    "y": -5.3650096649999455
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Ribeirão Cascalheira",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2344,
+    "INIC_OPER": 744163200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1608,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -51.812756775999958,
+    "y": -12.935176331999969
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Codajás",
+    "UF1": "AM",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 3656,
+    "INIC_OPER": 475372800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1609,
+    "CEG": "UTEGNAM000788-9"
+   },
+   "geometry": {
+    "x": -62.024117886999932,
+    "y": -3.7281763309999292
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Charqueadas",
+    "UF1": "RS",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 72000,
+    "INIC_OPER": -252460800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1610,
+    "CEG": "UTECMRS000760-9"
+   },
+   "geometry": {
+    "x": -51.547034553999936,
+    "y": -29.986749664999934
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Com. Indígena Bananal",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 44,
+    "INIC_OPER": 1283299200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1611,
+    "CEG": "UTE.PE.RR.034266-1.01"
+   },
+   "geometry": {
+    "x": -61.202499997999951,
+    "y": 4.3530555550000258
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Caapiranga",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1786,
+    "INIC_OPER": 773020800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1612,
+    "CEG": "UTEGNAM000340-9"
+   },
+   "geometry": {
+    "x": -61.201645553999981,
+    "y": -3.3254536649999409
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Campos (Antiga Roberto Silveira)",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 30000,
+    "INIC_OPER": -34214400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1613,
+    "CEG": "UTEGNRJ027935-8"
+   },
+   "geometry": {
+    "x": -41.32853455399993,
+    "y": -21.715543665999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Chaves",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 584,
+    "INIC_OPER": 993945600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1614,
+    "CEG": "UTEPEPA000766-8"
+   },
+   "geometry": {
+    "x": -49.982478997999976,
+    "y": -0.15850966499994001
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Alterosa",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 500,
+    "INIC_OPER": 1135987200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1615,
+    "CEG": "UTEPEAM000063-9"
+   },
+   "geometry": {
+    "x": -69.002234997999949,
+    "y": -3.0544511869999269
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Atalaia do Norte",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1520,
+    "INIC_OPER": 783648000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1616,
+    "CEG": "UTEPEAM000168-6"
+   },
+   "geometry": {
+    "x": -70.146090553999954,
+    "y": -4.331565664999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Belo Jardim",
+    "UF1": "AC",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 40000,
+    "INIC_OPER": 1332979200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1617,
+    "CEG": "UTE.PE.AC.030599-5.01"
+   },
+   "geometry": {
+    "x": -67.720534553999983,
+    "y": -10.00545410899997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Itaú Unibanco - Tatuapé",
+    "UF1": "SP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8000,
+    "INIC_OPER": 1259625600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1618,
+    "CEG": "UTEPESP030922-2"
+   },
+   "geometry": {
+    "x": -46.561645665999947,
+    "y": -23.528787444999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Silves",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2622,
+    "INIC_OPER": 783648000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1619,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -58.200256553999964,
+    "y": -2.8337876649999316
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "RJR",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 12030,
+    "INIC_OPER": 1392681600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1620,
+    "CEG": "UTEGNRJ031153-7"
+   },
+   "geometry": {
+    "x": -43.365641657999959,
+    "y": -22.932619824999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Termoceará",
+    "UF1": "CE",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 220000,
+    "INIC_OPER": 1025913600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1621,
+    "CEG": "UTE.GN.CE.028358-4.01"
+   },
+   "geometry": {
+    "x": -38.871666943999969,
+    "y": -3.6924999989999492
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Matupí",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 4680,
+    "INIC_OPER": 1350000000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1622,
+    "CEG": "UTE.PE.AM.029495-0.01"
+   },
+   "geometry": {
+    "x": -61.299248054999964,
+    "y": -5.8132049989999359
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santana do Uatumã",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 80,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1623,
+    "CEG": "UTEPEAM029494-2"
+   },
+   "geometry": {
+    "x": -57.861534553999945,
+    "y": -2.5680096649999768
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vista Alegre do Abunã",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8060,
+    "INIC_OPER": 899251200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1624,
+    "CEG": "UTE.PE.RO.003038-4.01"
+   },
+   "geometry": {
+    "x": -65.373867553999958,
+    "y": -9.650454108999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Modular de Campo Grande (Willian Arjona)",
+    "UF1": "MS",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 206350,
+    "INIC_OPER": 944006400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1625,
+    "CEG": "UTE.GN.MS.027075-0.01"
+   },
+   "geometry": {
+    "x": -54.615743885999962,
+    "y": -20.458030000999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Machadinho do Oeste",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 10061,
+    "INIC_OPER": 937612800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1626,
+    "CEG": "UTE.PE.RO.027245-0.01"
+   },
+   "geometry": {
+    "x": -61.99944041599997,
+    "y": -9.4249056769999697
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Celso Furtado (Antiga Termobahia Fase I)",
+    "UF1": "BA",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 185891,
+    "INIC_OPER": 1076284800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1627,
+    "CEG": "UTE.GN.BA.027263-9.01"
+   },
+   "geometry": {
+    "x": -38.56692355399997,
+    "y": -12.703787664999936
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Bagre",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1222,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1628,
+    "CEG": "UTEPEPA000186-4"
+   },
+   "geometry": {
+    "x": -50.201645664999944,
+    "y": -1.8932318869999563
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Casa de Geradores de Energia Elétrica F-242",
+    "UF1": "SP",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 9000,
+    "INIC_OPER": 1041552000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1629,
+    "CEG": "UTEGNSP028378-9"
+   },
+   "geometry": {
+    "x": -45.821992544999944,
+    "y": -23.095145724999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Macaco Branco",
+    "UF1": "SP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1040,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1630,
+    "CEG": "UTE.PE.SP.030184-1.01"
+   },
+   "geometry": {
+    "x": -47.060999999999979,
+    "y": -22.906000000999938
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Termocabo",
+    "UF1": "PE",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 49725,
+    "INIC_OPER": 1032393600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1631,
+    "CEG": "UTE.GN.PE.028326-6.01"
+   },
+   "geometry": {
+    "x": -35.038488887999961,
+    "y": -8.2898638879999567
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Parintins",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 29550,
+    "INIC_OPER": 415324800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1632,
+    "CEG": "UTEPEAM001989-5"
+   },
+   "geometry": {
+    "x": -56.731090553999934,
+    "y": -2.6290656649999278
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Barreira do Andirá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 80,
+    "INIC_OPER": 1141171200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1633,
+    "CEG": "UTE.PE.AM.029487-0.01"
+   },
+   "geometry": {
+    "x": -57.060534553999958,
+    "y": -2.7890096649999805
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Lábrea",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 6300,
+    "INIC_OPER": 725846400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1634,
+    "CEG": "UTEPEAM001291-2"
+   },
+   "geometry": {
+    "x": -64.784145553999963,
+    "y": -7.2618426649999606
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Juiz de Fora",
+    "UF1": "MG",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 87048,
+    "INIC_OPER": 1012521600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1635,
+    "CEG": "UTE.GN.MG.001276-9.01"
+   },
+   "geometry": {
+    "x": -43.447478553999986,
+    "y": -21.685453665999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jorge Lacerda IV",
+    "UF1": "SC",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 363000,
+    "INIC_OPER": 854755200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1636,
+    "CEG": "UTE.CM.SC.027094-6.01"
+   },
+   "geometry": {
+    "x": -48.960574998999959,
+    "y": -28.449046113999941
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Rio Madeira",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 119350,
+    "INIC_OPER": 594345600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1637,
+    "CEG": "UTEPERO002406-6"
+   },
+   "geometry": {
+    "x": -63.905256553999948,
+    "y": -8.7204536649999795
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santana",
+    "UF1": "AP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 177740,
+    "INIC_OPER": 730944000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1638,
+    "CEG": "UTE.PE.AP.027104-7.01"
+   },
+   "geometry": {
+    "x": -51.171645553999952,
+    "y": -0.0096206649999430738
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Luiz Oscar Rodrigues de Melo (Antiga Linhares)",
+    "UF1": "ES",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 204000,
+    "INIC_OPER": 1293062400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1639,
+    "CEG": "UTE.GN.ES.030054-3.01"
+   },
+   "geometry": {
+    "x": -40.028749999999945,
+    "y": -19.382129999999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Cruzeiro do Sul",
+    "UF1": "AC",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 24210.400000000001,
+    "INIC_OPER": 970272000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1640,
+    "CEG": "UTE.PE.AC.027009-1.01"
+   },
+   "geometry": {
+    "x": -72.66497899999996,
+    "y": -7.6115652239999463
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Boa Vista do Ramos",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2582,
+    "INIC_OPER": 1025481600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1641,
+    "CEG": "UTE.PE.AM.000270-4.01"
+   },
+   "geometry": {
+    "x": -57.578590553999959,
+    "y": -2.9648986649999642
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Com. Indígena Água Fria",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 132,
+    "INIC_OPER": 996537600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1642,
+    "CEG": "UTE.PE.RR.000038-8.01"
+   },
+   "geometry": {
+    "x": -60.50194399999998,
+    "y": 4.6311110000000326
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Petrolina",
+    "UF1": "PE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 136200,
+    "INIC_OPER": 1033603200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1643,
+    "CEG": "UTE.PE.PE.028584-6.01"
+   },
+   "geometry": {
+    "x": -40.499998889999972,
+    "y": -9.3973761099999251
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Itapiranga",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3073,
+    "INIC_OPER": 744163200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1644,
+    "CEG": "UTEPEAM027058-0"
+   },
+   "geometry": {
+    "x": -58.012478553999983,
+    "y": -2.744898664999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Limoeiro",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1425,
+    "INIC_OPER": 901929600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1645,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -66.984423553999989,
+    "y": -1.8737876649999521
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Metalsider",
+    "UF1": "MG",
+    "COMBUST": "Gás do Alto Forno - CM",
+    "P_OUT_KW": 8800,
+    "INIC_OPER": 1283385600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1646,
+    "CEG": "UTE.CM.MG.030256-2.01"
+   },
+   "geometry": {
+    "x": -44.213207498999964,
+    "y": -19.97102416499996
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Sapezal",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8130,
+    "INIC_OPER": 962409600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1647,
+    "CEG": "UTE.PE.MT.028729-6.01"
+   },
+   "geometry": {
+    "x": -58.803574782999988,
+    "y": -13.54319486199995
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Porto Alegre do Norte",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2406.4000000000001,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1648,
+    "CEG": "UTE.PE.MT.002115-6.01"
+   },
+   "geometry": {
+    "x": -51.621367886999963,
+    "y": -10.90739855399994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Rio Preto da Eva",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3200,
+    "INIC_OPER": 1086048000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1649,
+    "CEG": "UTEPEAM029185-4"
+   },
+   "geometry": {
+    "x": -59.690534553999953,
+    "y": -2.6950096649999296
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Manicoré",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 6450,
+    "INIC_OPER": 888710400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1650,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -61.288590553999938,
+    "y": -5.8096206649999544
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Lourenço",
+    "UF1": "AP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 720,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1651,
+    "CEG": "UTE.PE.AP.001339-0.01"
+   },
+   "geometry": {
+    "x": -50.944772999999941,
+    "y": 2.4965590020000263
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Barcelos",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2482,
+    "INIC_OPER": 1028160000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1652,
+    "CEG": "UTEPEAM000201-1"
+   },
+   "geometry": {
+    "x": -63.444224254999938,
+    "y": 0.47240954000005786
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Monte Alegre",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 10757,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1653,
+    "CEG": "UTE.PE.PA.001487-7.01"
+   },
+   "geometry": {
+    "x": -54.078312331999939,
+    "y": -1.9898985539999785
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Brahma",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 13080,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1654,
+    "CEG": "UTEGNRJ027352-0"
+   },
+   "geometry": {
+    "x": -43.440794553999979,
+    "y": -22.919199664999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Mocambo",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 372,
+    "INIC_OPER": 541555200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1655,
+    "CEG": "UTEPEAM001475-3"
+   },
+   "geometry": {
+    "x": -57.274978553999972,
+    "y": -2.4490656649999778
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Flores",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 95400,
+    "INIC_OPER": 1222387200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1656,
+    "CEG": "UTE.PE.AM.029192-7.01"
+   },
+   "geometry": {
+    "x": -60.023888888999977,
+    "y": -3.0747222219999344
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Bahia I - Camaçari",
+    "UF1": "BA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 31800,
+    "INIC_OPER": 1029888000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1657,
+    "CEG": "UTE.PE.BA.028615-0.01"
+   },
+   "geometry": {
+    "x": -38.325534553999944,
+    "y": -12.661565664999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Anori",
+    "UF1": "AM",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 2742,
+    "INIC_OPER": 475372800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1658,
+    "CEG": "UTEGNAM000105-8"
+   },
+   "geometry": {
+    "x": -61.662920431999964,
+    "y": -3.7102812669999707
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Manauara",
+    "UF1": "AM",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 85380,
+    "INIC_OPER": 1158883200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1659,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -60.012395664999985,
+    "y": -2.9369263319999277
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Candiota III",
+    "UF1": "RS",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 350000,
+    "INIC_OPER": 1293840000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1660,
+    "CEG": "UTE.CM.RS.029767-4.01"
+   },
+   "geometry": {
+    "x": -53.656582609999987,
+    "y": -31.545750742999928
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Copesul",
+    "UF1": "RS",
+    "COMBUST": "Outros Energéticos de Petróleo",
+    "P_OUT_KW": 74400,
+    "INIC_OPER": 920246400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1661,
+    "CEG": "UTE.PE.RS.000827-3.01"
+   },
+   "geometry": {
+    "x": -51.708534553999982,
+    "y": -29.939009665999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Crato",
+    "UF1": "CE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 13120,
+    "INIC_OPER": 1019520000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1662,
+    "CEG": "UTEPECE028530-7"
+   },
+   "geometry": {
+    "x": -39.477964553999982,
+    "y": -7.2324396649999585
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Autazes",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 5266,
+    "INIC_OPER": 904608000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1663,
+    "CEG": "UTE.PE.AM.000175-9.01"
+   },
+   "geometry": {
+    "x": -59.123312553999938,
+    "y": -3.5754536649999409
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Mário Lago (Antiga Macaé Merchant)",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 922615,
+    "INIC_OPER": 1007164800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1664,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -41.865812553999945,
+    "y": -22.299898665999933
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jacaré",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 434,
+    "INIC_OPER": 1036108800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1665,
+    "CEG": "UTE.PE.AM.001210-6.01"
+   },
+   "geometry": {
+    "x": -60.80803455399996,
+    "y": -3.5979536649999773
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Aeroporto de Maceió",
+    "UF1": "AL",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 790,
+    "INIC_OPER": 1161907200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1666,
+    "CEG": "UTEGNAL029375-0"
+   },
+   "geometry": {
+    "x": -35.785100711999974,
+    "y": -9.5136666409999293
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jacareacanga",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1417,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1667,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -57.751367886999958,
+    "y": -6.2246207759999379
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Juruá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1220,
+    "INIC_OPER": 746841600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1668,
+    "CEG": "UTEPEAM001283-1"
+   },
+   "geometry": {
+    "x": -66.057478553999943,
+    "y": -3.4698986649999597
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Maués",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 7350,
+    "INIC_OPER": 415324800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1669,
+    "CEG": "UTEPEAM001445-1"
+   },
+   "geometry": {
+    "x": -57.704423442999939,
+    "y": -3.395731886999954
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Caracaraí",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 6272,
+    "INIC_OPER": 173404800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1670,
+    "CEG": "UTEPERR000666-1"
+   },
+   "geometry": {
+    "x": -61.113590109999961,
+    "y": 1.8264903350000736
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Governador Leonel Brizola (Antiga TermoRio)",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 1058300,
+    "INIC_OPER": 1099612800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1671,
+    "CEG": "UTEGNRJ027888-2"
+   },
+   "geometry": {
+    "x": -43.24581255399994,
+    "y": -22.709620665999978
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Sol",
+    "UF1": "ES",
+    "COMBUST": "Calor de Processo - GN",
+    "P_OUT_KW": 147300,
+    "INIC_OPER": 1182211200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1672,
+    "CEG": "UTEOFES029273-7"
+   },
+   "geometry": {
+    "x": -40.29167455399994,
+    "y": -20.124569664999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Ipixuna",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2668,
+    "INIC_OPER": 799286400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1673,
+    "CEG": "UTEPEAM001139-8"
+   },
+   "geometry": {
+    "x": -71.68192355399998,
+    "y": -7.0507316649999439
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Maraã",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1968,
+    "INIC_OPER": 1054425600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1674,
+    "CEG": "UTE.PE.AM.001403-6.01"
+   },
+   "geometry": {
+    "x": -65.571534553999982,
+    "y": -1.8520096649999687
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Nova Buritis",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 18894,
+    "INIC_OPER": 899251200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1675,
+    "CEG": "UTE.PE.RO.030601-0.01"
+   },
+   "geometry": {
+    "x": -63.799722922999933,
+    "y": -10.229444013999967
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Juruti",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 5026,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1676,
+    "CEG": "UTE.PE.PA.001287-4.01"
+   },
+   "geometry": {
+    "x": -56.090534553999987,
+    "y": -2.1587874429999374
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Sacambu",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 362,
+    "INIC_OPER": 901929600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1677,
+    "CEG": "UTEPEAM003027-9"
+   },
+   "geometry": {
+    "x": -60.923590553999986,
+    "y": -3.2729536649999318
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Apuí",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 7350,
+    "INIC_OPER": 907200000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1678,
+    "CEG": "UTEPEAM000124-4"
+   },
+   "geometry": {
+    "x": -59.886905183999943,
+    "y": -7.2025057359999778
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São Francisco do Guaporé",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 9422,
+    "INIC_OPER": 899251200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1679,
+    "CEG": "UTE.PE.RO.027204-3.01"
+   },
+   "geometry": {
+    "x": -62.554423442999962,
+    "y": -12.050454108999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Feijoal",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 655.20000000000005,
+    "INIC_OPER": 1296518400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1680,
+    "CEG": "UTEPEAM027893-9"
+   },
+   "geometry": {
+    "x": -69.537661007999986,
+    "y": -4.2969157739999559
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Bannach",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 720,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1681,
+    "CEG": "UTEPEPA000196-1"
+   },
+   "geometry": {
+    "x": -50.398034553999935,
+    "y": -7.3487874429999351
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Caviana",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 430,
+    "INIC_OPER": 1028160000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1682,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -60.611534553999945,
+    "y": -3.2960096649999286
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Condomínio Edifício Marques de Castela",
+    "UF1": "SP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 62,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1683,
+    "CEG": "UTEPESP030523-5"
+   },
+   "geometry": {
+    "x": -46.638644553999939,
+    "y": -23.646089664999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Caburi",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 753,
+    "INIC_OPER": 1007164800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1684,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -57.093312553999965,
+    "y": -2.4568426649999537
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Camaçarí",
+    "UF1": "BA",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 360000,
+    "INIC_OPER": 1054857600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1685,
+    "CEG": "UTE.GN.BA.027933-1.01"
+   },
+   "geometry": {
+    "x": -38.29799358799994,
+    "y": -12.604368422999926
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São Sebastião do Uatumã",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2334,
+    "INIC_OPER": 1059696000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1686,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -57.861534553999945,
+    "y": -2.5680096649999768
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Camaçari",
+    "UF1": "BA",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 130710,
+    "INIC_OPER": 820454400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1687,
+    "CEG": "UTE.GN.BA.000602-5.01"
+   },
+   "geometry": {
+    "x": -38.352569340999935,
+    "y": -12.687226520999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vilhena",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 23750,
+    "INIC_OPER": 454896000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1688,
+    "CEG": "UTEPERO027862-9"
+   },
+   "geometry": {
+    "x": -60.127756553999973,
+    "y": -12.758509664999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Sepé Tiaraju (Antiga Canoas)",
+    "UF1": "RS",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 248573,
+    "INIC_OPER": 985824000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1689,
+    "CEG": "UTE.GN.RS.028038-0.01"
+   },
+   "geometry": {
+    "x": -51.181029998999975,
+    "y": -29.918696945999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Brasília",
+    "UF1": "DF",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 10000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1690,
+    "CEG": "UTE.PE.DF.000312-3.01"
+   },
+   "geometry": {
+    "x": -47.940256553999973,
+    "y": -15.796842664999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Tapauá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3780,
+    "INIC_OPER": 736214400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1691,
+    "CEG": "UTEPEAM002812-6"
+   },
+   "geometry": {
+    "x": -63.178312553999945,
+    "y": -5.6173986649999392
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Benjamin Constant",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3993,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1692,
+    "CEG": "UTEPEAM000253-4"
+   },
+   "geometry": {
+    "x": -70.02581255399997,
+    "y": -4.3521206649999726
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Novo Airão",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2760,
+    "INIC_OPER": 896659200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1693,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -60.932756775999962,
+    "y": -2.6173985539999762
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Juazeiro do Norte",
+    "UF1": "CE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 14760,
+    "INIC_OPER": 1019347200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1694,
+    "CEG": "UTEPECE028534-0"
+   },
+   "geometry": {
+    "x": -39.306112742999971,
+    "y": -7.2094236329999717
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Coari",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 19310,
+    "INIC_OPER": 378691200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1695,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -63.137478553999983,
+    "y": -4.0865656649999664
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Axinim",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 405,
+    "INIC_OPER": 904608000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1696,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -59.361090553999986,
+    "y": -4.0415656649999505
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Negro de Fumo",
+    "UF1": "SP",
+    "COMBUST": "Gás do Alto Forno - CM",
+    "P_OUT_KW": 24400,
+    "INIC_OPER": 851299200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1697,
+    "CEG": "UTE.CM.SP.000825-7.01"
+   },
+   "geometry": {
+    "x": -46.420031944999948,
+    "y": -23.883838887999957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Senador Arnon Afonso Farias de Mello (Floresta)",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 85992,
+    "INIC_OPER": 631152000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1698,
+    "CEG": "UTE.PE.RR.000961-0.01"
+   },
+   "geometry": {
+    "x": -60.670533055999954,
+    "y": 2.8166819440000381
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santarém",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 18750,
+    "INIC_OPER": 1408060800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1699,
+    "CEG": "UTEPEPA031616-4"
+   },
+   "geometry": {
+    "x": -54.721090109999977,
+    "y": -2.4785096649999332
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Fortaleza",
+    "UF1": "CE",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 346630,
+    "INIC_OPER": 1072483200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1700,
+    "CEG": "UTEGNCE028357-6"
+   },
+   "geometry": {
+    "x": -38.856645553999954,
+    "y": -3.6771206649999613
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "EnergyWorks Corn Products Mogi",
+    "UF1": "SP",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 30775,
+    "INIC_OPER": 1049155200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1701,
+    "CEG": "UTEGNSP028076-3"
+   },
+   "geometry": {
+    "x": -46.942000030999964,
+    "y": -22.372000048999951
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Alvarães",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3180,
+    "INIC_OPER": 744163200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1702,
+    "CEG": "UTEPEAM000082-5"
+   },
+   "geometry": {
+    "x": -65.330810931999963,
+    "y": -3.7010167099999762
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Zé Açu",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 200,
+    "INIC_OPER": 1162339200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1703,
+    "CEG": "UTEPEAM027546-8"
+   },
+   "geometry": {
+    "x": -56.615812553999945,
+    "y": -2.6726766649999263
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Linhares",
+    "UF1": "ES",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 204000,
+    "INIC_OPER": 1293062400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1704,
+    "CEG": "UTEGNES030054-3"
+   },
+   "geometry": {
+    "x": -39.799241666999933,
+    "y": -19.53226944499994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "CNH Buritis",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 18000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1705,
+    "CEG": "UTEPERO032286-5"
+   },
+   "geometry": {
+    "x": -63.829444443999932,
+    "y": -10.212499999999977
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Humaitá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8850,
+    "INIC_OPER": 420595200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1706,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -63.015534553999942,
+    "y": -7.5115656649999778
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Celpav IV",
+    "UF1": "SP",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 138680,
+    "INIC_OPER": 1059696000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1707,
+    "CEG": "UTEGNSP002904-1"
+   },
+   "geometry": {
+    "x": -45.981044553999936,
+    "y": -23.294889664999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Cujubim",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 10888,
+    "INIC_OPER": 947635200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1708,
+    "CEG": "UTE.PE.RO.027002-4.01"
+   },
+   "geometry": {
+    "x": -62.577289702999963,
+    "y": -9.3598360059999663
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Careiro da Várzea",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2068,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1709,
+    "CEG": "UTEPEAM000677-7"
+   },
+   "geometry": {
+    "x": -59.764701553999942,
+    "y": -3.1937876649999453
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Tonantins",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2070,
+    "INIC_OPER": 783648000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1710,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -67.78470155399998,
+    "y": -2.883787664999943
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Tapurah",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2281.5999999999999,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1711,
+    "CEG": "UTEPEMT002814-2"
+   },
+   "geometry": {
+    "x": -56.544534553999938,
+    "y": -12.768009664999965
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São José do Rio Claro",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 7560,
+    "INIC_OPER": 999302400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1712,
+    "CEG": "UTE.PE.MT.026854-2.01"
+   },
+   "geometry": {
+    "x": -56.742201553999962,
+    "y": -13.427120664999961
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Manacapuru",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 15550,
+    "INIC_OPER": 410227200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1713,
+    "CEG": "UTEPEAM001387-0"
+   },
+   "geometry": {
+    "x": -60.607478553999954,
+    "y": -3.2912876649999703
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Araucária",
+    "UF1": "PR",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 484150,
+    "INIC_OPER": 1033084800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1714,
+    "CEG": "UTEGNPR027733-9"
+   },
+   "geometry": {
+    "x": -49.355861602999937,
+    "y": -25.588304468999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Japurá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 180,
+    "INIC_OPER": 915148800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1715,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -66.599423553999941,
+    "y": -1.8179536649999477
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Augusto Monte Negro",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 450,
+    "INIC_OPER": 883612800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1716,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -57.749978553999938,
+    "y": -2.7618426649999606
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Altos",
+    "UF1": "PI",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 13120,
+    "INIC_OPER": 1027900800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1717,
+    "CEG": "UTEPEPI028538-2"
+   },
+   "geometry": {
+    "x": -42.445270910999966,
+    "y": -5.0361181589999546
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Munguba",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1718,
+    "CEG": "UTE.PE.PA.001517-2.01"
+   },
+   "geometry": {
+    "x": -52.576834998999971,
+    "y": -1.5273388879999743
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Cucuí",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 420,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1719,
+    "CEG": "UTE.PE.AM.027152-7.01"
+   },
+   "geometry": {
+    "x": -67.079534553999963,
+    "y": -0.12600966499996957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Tefé",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 16482,
+    "INIC_OPER": 412905600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1720,
+    "CEG": "UTEPEAM002829-0"
+   },
+   "geometry": {
+    "x": -64.660812553999961,
+    "y": -3.350453664999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santo Antônio do Içá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2182,
+    "INIC_OPER": 1030838400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1721,
+    "CEG": "UTEPEAM026795-3"
+   },
+   "geometry": {
+    "x": -67.927756553999984,
+    "y": -3.100453664999975
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Potiguar III",
+    "UF1": "RN",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 66400,
+    "INIC_OPER": 1236038400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1722,
+    "CEG": "UTE.PE.RN.029556-6.01"
+   },
+   "geometry": {
+    "x": -35.304648442999962,
+    "y": -5.8688096649999579
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Porto do Pecém I (Antiga MPX)",
+    "UF1": "CE",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 720274,
+    "INIC_OPER": 1354320000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1723,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -38.835534553999935,
+    "y": -3.5797763319999376
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Breves",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1724,
+    "CEG": "UTE.PE.PA.000317-4.01"
+   },
+   "geometry": {
+    "x": -50.460256775999937,
+    "y": -1.6626763319999327
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Alcoa Beneficiamento",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 9828,
+    "INIC_OPER": 1276905600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1725,
+    "CEG": "UTEPEPA030167-1"
+   },
+   "geometry": {
+    "x": -56.172022654999978,
+    "y": -2.5099952619999613
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Itapuru",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 90,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1726,
+    "CEG": "UTE.PE.AM.029535-3.01"
+   },
+   "geometry": {
+    "x": -61.37157111199997,
+    "y": -3.8945130549999476
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Oiapoque",
+    "UF1": "AP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8250,
+    "INIC_OPER": 904608000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1727,
+    "CEG": "UTEPEAP028008-9"
+   },
+   "geometry": {
+    "x": -51.826645664999944,
+    "y": 3.8384347790000675
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jorge Lacerda I e II",
+    "UF1": "SC",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 232000,
+    "INIC_OPER": -152668800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1728,
+    "CEG": "UTE.CM.SC.001260-2.01"
+   },
+   "geometry": {
+    "x": -48.96057499799997,
+    "y": -28.449046111999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Pedras",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 432,
+    "INIC_OPER": 978307200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1729,
+    "CEG": "UTE.PE.AM.002022-2.01"
+   },
+   "geometry": {
+    "x": -57.067749997999954,
+    "y": -2.7981499999999642
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Barbosa Lima Sobrinho (Antiga Eletrobolt)",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 385900,
+    "INIC_OPER": 1001894400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1730,
+    "CEG": "UTE.GN.RJ.027952-8.01"
+   },
+   "geometry": {
+    "x": -43.637756553999964,
+    "y": -22.715453665999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Alcoa Porto",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 5644,
+    "INIC_OPER": 1276905600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1731,
+    "CEG": "UTEPEA030168-0"
+   },
+   "geometry": {
+    "x": -56.105089042999964,
+    "y": -2.1742404099999249
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Novo Aripuanã",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 4670,
+    "INIC_OPER": 1128124800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1732,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -60.373312553999938,
+    "y": -5.1173986649999392
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Alvorada d´Oeste",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 6311,
+    "INIC_OPER": 1085875200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1733,
+    "CEG": "UTEPERO000083-3"
+   },
+   "geometry": {
+    "x": -62.282229935999965,
+    "y": -11.344365606999929
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Baixada Fluminense",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 530000,
+    "INIC_OPER": 1393632000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1734,
+    "CEG": "UTEGNRJ030769-6"
+   },
+   "geometry": {
+    "x": -43.633534553999937,
+    "y": -22.718304109999963
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santa Cruz",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 1000000,
+    "INIC_OPER": -79056000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1735,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -43.758034553999948,
+    "y": -22.910176665999927
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jaraqui",
+    "UF1": "AM",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 156646,
+    "INIC_OPER": 1144195200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1736,
+    "CEG": "UTE.GN.AM.029272-9.01"
+   },
+   "geometry": {
+    "x": -60.017756775999942,
+    "y": -2.9815652209999257
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Eirunepé",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 5800,
+    "INIC_OPER": 536457600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1737,
+    "CEG": "UTEPEAM027087-3"
+   },
+   "geometry": {
+    "x": -69.876111099999946,
+    "y": -6.6605560069999683
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santarém",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 18750,
+    "INIC_OPER": 1408060800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1738,
+    "CEG": "UTEPEPA031616-4"
+   },
+   "geometry": {
+    "x": -54.720245664999936,
+    "y": -2.4788652079999451
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Itapeaçu",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 789,
+    "INIC_OPER": 1007164800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1739,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -58.052478553999947,
+    "y": -2.9504536649999409
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Iauaretê",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 970,
+    "INIC_OPER": 967766400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1740,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -67.079534553999963,
+    "y": -0.12600966499996957
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Bittencourt",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 444,
+    "INIC_OPER": 1004572800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1741,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -69.411740011999939,
+    "y": -1.3972909419999269
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São Gabriel da Cachoeira",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 5850,
+    "INIC_OPER": 957139200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1742,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -67.080256553999959,
+    "y": -0.12545366499995225
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Manaquiri",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2100,
+    "INIC_OPER": 738892800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1743,
+    "CEG": "UTEPEAM001389-7"
+   },
+   "geometry": {
+    "x": -60.449423553999964,
+    "y": -3.4279536649999613
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Betânia",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 750,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1744,
+    "CEG": "UTEPEAM000259-3"
+   },
+   "geometry": {
+    "x": -69.078734553999936,
+    "y": -3.0470296649999682
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Arara",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 324,
+    "INIC_OPER": 954547200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1745,
+    "CEG": "UTEPEAM027892-0"
+   },
+   "geometry": {
+    "x": -61.364750602999948,
+    "y": -3.4161181589999501
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São Sebastião",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 80,
+    "INIC_OPER": 941414400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1746,
+    "CEG": "UTE.PE.RO.027008-3.01"
+   },
+   "geometry": {
+    "x": -63.936090109999952,
+    "y": -8.7687874429999511
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Euzébio Rocha (Antiga Cubatão - CCBS)",
+    "UF1": "SP",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 249900,
+    "INIC_OPER": 1258416000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1747,
+    "CEG": "UTEGNSP028014-3"
+   },
+   "geometry": {
+    "x": -46.431825479999929,
+    "y": -23.875530516999959
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "CST",
+    "UF1": "ES",
+    "COMBUST": "Outros Energéticos de Petróleo",
+    "P_OUT_KW": 225100,
+    "INIC_OPER": 1049155200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1748,
+    "CEG": "UTEPEES027054-7"
+   },
+   "geometry": {
+    "x": -40.298534553999957,
+    "y": -20.125009665999983
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Laranjal do Jari",
+    "UF1": "AP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8675,
+    "INIC_OPER": 770428800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1749,
+    "CEG": "UTEPEAP001311-0"
+   },
+   "geometry": {
+    "x": -52.516923442999939,
+    "y": -0.82323188699996308
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Araguaia",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 23100,
+    "INIC_OPER": 1460160000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1750,
+    "CEG": "UTEPEMT035090-7"
+   },
+   "geometry": {
+    "x": -52.208877773999973,
+    "y": -12.601388887999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Palmeiras",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 424,
+    "INIC_OPER": 155088000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1751,
+    "CEG": "UTE.PE.AM.027735-5.01"
+   },
+   "geometry": {
+    "x": -72.811111110999946,
+    "y": -5.136943887999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Presidente Médici",
+    "UF1": "RS",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 446000,
+    "INIC_OPER": 126230400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1752,
+    "CEG": "UTE.CM.RS.002150-4.01"
+   },
+   "geometry": {
+    "x": -53.682777773999931,
+    "y": -31.552222221999955
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Novo Progresso",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 9125,
+    "INIC_OPER": 1112313600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1753,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -55.394978997999942,
+    "y": -7.0348985539999376
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São José",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 41600,
+    "INIC_OPER": 1222387200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1754,
+    "CEG": "UTE.PE.AM.028922-1.01"
+   },
+   "geometry": {
+    "x": -59.940357261999964,
+    "y": -3.0542596149999781
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Salto (Antiga Eucatex)",
+    "UF1": "SP",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 9800,
+    "INIC_OPER": 1002326400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1755,
+    "CEG": "UTE.GN.SP.028373-8.01"
+   },
+   "geometry": {
+    "x": -47.257201553999948,
+    "y": -23.196009665999952
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Electron (TG)",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 121116,
+    "INIC_OPER": 94694400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1756,
+    "CEG": "UTEPEAM027120-9"
+   },
+   "geometry": {
+    "x": -59.929919167999969,
+    "y": -3.1226443539999309
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Fonte Boa",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3550,
+    "INIC_OPER": 1033430400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1757,
+    "CEG": "UTEPEAM000972-5"
+   },
+   "geometry": {
+    "x": -66.029145553999967,
+    "y": -2.5201766649999513
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Iguatu",
+    "UF1": "CE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 14760,
+    "INIC_OPER": 1019606400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1758,
+    "CEG": "UTEPECE028532-3"
+   },
+   "geometry": {
+    "x": -39.298611119999975,
+    "y": -6.3594444449999514
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Fernando Gasparian (Antiga Nova Piratininga)",
+    "UF1": "SP",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 386080,
+    "INIC_OPER": 1104451200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1759,
+    "CEG": "UTE.GN.SP.028191-3.01"
+   },
+   "geometry": {
+    "x": -46.669145553999954,
+    "y": -23.694898665999972
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Aveiro",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 624,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1760,
+    "CEG": "UTEPEPA000178-3"
+   },
+   "geometry": {
+    "x": -55.319978997999954,
+    "y": -3.6029541089999384
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Novo Paraíso",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 13120,
+    "INIC_OPER": 1437436800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1761,
+    "CEG": "UTE.PE.RR.031984-8.01"
+   },
+   "geometry": {
+    "x": -61.149176943999976,
+    "y": 1.8038711100000455
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Caapiranga",
+    "UF1": "AM",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 1299,
+    "INIC_OPER": 475372800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1762,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -61.205728997999984,
+    "y": -3.2894818869999654
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "EnergyWorks Corn Products Balsa",
+    "UF1": "PR",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 9119,
+    "INIC_OPER": 1038700800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1763,
+    "CEG": "UTEGNPR028077-1"
+   },
+   "geometry": {
+    "x": -49.636123735999945,
+    "y": -25.584718943999974
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "MC2 Nova Venécia 2",
+    "UF1": "MA",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 176200,
+    "INIC_OPER": 1382486400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1764,
+    "CEG": "UTE.GN.MA.030196-5.01"
+   },
+   "geometry": {
+    "x": -44.350556452999967,
+    "y": -4.8650439089999509
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Daia",
+    "UF1": "GO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 44440,
+    "INIC_OPER": 1039132800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1765,
+    "CEG": "UTEPEGO028612-5"
+   },
+   "geometry": {
+    "x": -48.930359434999957,
+    "y": -16.396392739999953
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Campo Maior",
+    "UF1": "PI",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 13120,
+    "INIC_OPER": 1027900800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1766,
+    "CEG": "UTEPEPI028537-4"
+   },
+   "geometry": {
+    "x": -42.183590553999977,
+    "y": -4.842398664999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Anamã",
+    "UF1": "AM",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 1299,
+    "INIC_OPER": 475372800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1767,
+    "CEG": "UTEGNAM000092-2"
+   },
+   "geometry": {
+    "x": -61.419028855999954,
+    "y": -3.5548338999999487
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Surumú",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 400,
+    "INIC_OPER": 999302400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1768,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -61.145999999999958,
+    "y": 4.43100000000004
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Terra Nova",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 80,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1769,
+    "CEG": "UTE.PE.AM.027547-6.01"
+   },
+   "geometry": {
+    "x": -59.826313888999948,
+    "y": -3.19739694499998
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Assis Brasil - TECG",
+    "UF1": "AC",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2200,
+    "INIC_OPER": 1471046400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1770,
+    "CEG": "UTEPEAC034375-7"
+   },
+   "geometry": {
+    "x": -69.563459174999934,
+    "y": -10.942865680999944
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Guajará",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1280,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1771,
+    "CEG": "UTE.PE.AM.001060-0.01"
+   },
+   "geometry": {
+    "x": -72.574534553999968,
+    "y": -7.5420096649999664
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Rio Branco I",
+    "UF1": "AC",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 18657,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1772,
+    "CEG": "UTEPEAC002300-0"
+   },
+   "geometry": {
+    "x": -67.781923553999945,
+    "y": -9.9615656649999664
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Chupinguaia",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3821,
+    "INIC_OPER": 951868800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1773,
+    "CEG": "UTE.PE.RO.000776-5.01"
+   },
+   "geometry": {
+    "x": -60.888914553999939,
+    "y": -12.533339664999971
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Sucundurí",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 100,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1774,
+    "CEG": "UTE.PE.AM.029485-3.01"
+   },
+   "geometry": {
+    "x": -59.885666111999967,
+    "y": -7.1978699989999768
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "CNH Cujubim",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 12000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1775,
+    "CEG": "UTEPERO032290-3"
+   },
+   "geometry": {
+    "x": -62.585555553999939,
+    "y": -9.3633333329999573
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Maici",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 34,
+    "INIC_OPER": 960854400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1776,
+    "CEG": "UTEPERO001366-8"
+   },
+   "geometry": {
+    "x": -62.763312331999941,
+    "y": -8.0187874429999511
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Itacoatiara",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 20640,
+    "INIC_OPER": 252460800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1777,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -58.436645553999938,
+    "y": -3.1301766649999649
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Terra Preta",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 24,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1778,
+    "CEG": "UTE.PE.RR.002839-8.01"
+   },
+   "geometry": {
+    "x": -61.931666664999966,
+    "y": -0.87361111199993502
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Estirão do Equador",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 550,
+    "INIC_OPER": 1299283200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1779,
+    "CEG": "UTEPEAM000915-6"
+   },
+   "geometry": {
+    "x": -70.192185647999963,
+    "y": -4.3721213739999598
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Mauá Parte II Bloco Distrito",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 40000,
+    "INIC_OPER": 1259884800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1780,
+    "CEG": "UTE.PE.AM.030273-2.01"
+   },
+   "geometry": {
+    "x": -60.25016455399998,
+    "y": -2.6219296649999251
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Carvoeiro",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 230,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1781,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -62.914534553999943,
+    "y": -0.97100966499994001
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Urucurituba",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 280,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1782,
+    "CEG": "UTE.PE.AM.027548-4.01"
+   },
+   "geometry": {
+    "x": -58.929722221999953,
+    "y": -3.54722222099997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "CNH Izidolandia",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 880,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1783,
+    "CEG": "UTEPERO032299-7"
+   },
+   "geometry": {
+    "x": -61.853076944999941,
+    "y": -12.131776941999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Contão",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 160,
+    "INIC_OPER": 1067644800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1784,
+    "CEG": "UTEPERR000820-6"
+   },
+   "geometry": {
+    "x": -61.145999999999958,
+    "y": 4.43100000000004
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Aparecida Parte II",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 8400,
+    "INIC_OPER": 870393600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1785,
+    "CEG": "UTEPEAM030275-9"
+   },
+   "geometry": {
+    "x": -60.032782808999968,
+    "y": -3.1297767489999728
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Belém do Solimões",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 360,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1786,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -69.519145553999977,
+    "y": -4.0376766649999354
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Carauari",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 5456,
+    "INIC_OPER": 941414400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1787,
+    "CEG": "UTEPEAM000671-8"
+   },
+   "geometry": {
+    "x": -67.328124553999942,
+    "y": -5.1148896649999642
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Com. Indígena Contão",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 299.60000000000002,
+    "INIC_OPER": 996537600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1788,
+    "CEG": "UTE.PE.RR.000820-6.01"
+   },
+   "geometry": {
+    "x": -60.541111113999932,
+    "y": 4.1699999980000371
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Uruguaiana",
+    "UF1": "RS",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 639900,
+    "INIC_OPER": 975628800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1789,
+    "CEG": "UTEGNRS002913-0"
+   },
+   "geometry": {
+    "x": -56.990534553999964,
+    "y": -29.75989866599997
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Rio Acre",
+    "UF1": "AC",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 45497,
+    "INIC_OPER": 915148800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1790,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -67.783590553999943,
+    "y": -9.9610096649999491
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Do Atlântico",
+    "UF1": "RJ",
+    "COMBUST": "Gás de Alto Forno - PE",
+    "P_OUT_KW": 490000,
+    "INIC_OPER": 1293840000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1791,
+    "CEG": "UTEPERJ029587-6"
+   },
+   "geometry": {
+    "x": -43.739637849999951,
+    "y": -22.909863481999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Termomanaus",
+    "UF1": "PE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 143040,
+    "INIC_OPER": 1245283200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1792,
+    "CEG": "UTE.PE.PE.029562-0.01"
+   },
+   "geometry": {
+    "x": -35.009367886999939,
+    "y": -7.8567874429999733
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Termo Norte II",
+    "UF1": "RO",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 426530,
+    "INIC_OPER": 1007164800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1793,
+    "CEG": "UTE.GN.RO.028033-0.01"
+   },
+   "geometry": {
+    "x": -63.831446110999934,
+    "y": -8.7688919429999714
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Norte Fluminense",
+    "UF1": "RJ",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 826780,
+    "INIC_OPER": 1078531200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1794,
+    "CEG": "UTEGNRJ001544-0"
+   },
+   "geometry": {
+    "x": -41.873034553999958,
+    "y": -22.298787665999953
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São Paulo de Olivença",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3080,
+    "INIC_OPER": 917827200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1795,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -68.932478553999943,
+    "y": -3.4504536649999409
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Uarini",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2704,
+    "INIC_OPER": 896659200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1796,
+    "CEG": "UTEPEAM027088-1"
+   },
+   "geometry": {
+    "x": -65.148312553999972,
+    "y": -2.9821206649999681
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Ayapuá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 100,
+    "INIC_OPER": 1141171200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1797,
+    "CEG": "UTE.PE.AM.029489-6.01"
+   },
+   "geometry": {
+    "x": -61.363534553999955,
+    "y": -3.8940096649999418
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Palmeiras de Goiás",
+    "UF1": "GO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 175560,
+    "INIC_OPER": 1342483200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1798,
+    "CEG": "UTE.PE.GO.001946-1.01"
+   },
+   "geometry": {
+    "x": -49.914978997999981,
+    "y": -16.806009665999966
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Envira",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3380,
+    "INIC_OPER": 896659200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1799,
+    "CEG": "UTEPEAM000891-5"
+   },
+   "geometry": {
+    "x": -70.02972189999997,
+    "y": -7.4408330509999701
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Tarauacá - CEA",
+    "UF1": "AC",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 7650,
+    "INIC_OPER": 1478563200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1800,
+    "CEG": "UTEPEAC034373-0"
+   },
+   "geometry": {
+    "x": -70.765833332999989,
+    "y": -8.1608333329999709
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Nazária",
+    "UF1": "PI",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 13120,
+    "INIC_OPER": 1027900800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1801,
+    "CEG": "UTE.PE.PI.028536-6.01"
+   },
+   "geometry": {
+    "x": -42.80692355399998,
+    "y": -5.3418426649999446
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Colorado do Oeste",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 10946,
+    "INIC_OPER": 441763200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1802,
+    "CEG": "UTEPERO000798-6"
+   },
+   "geometry": {
+    "x": -60.518590553999957,
+    "y": -13.114898664999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Beruri",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3096,
+    "INIC_OPER": 944006400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1803,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -61.365256553999984,
+    "y": -3.8937876649999339
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Amazônia",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 710,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1804,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -56.657201553999982,
+    "y": -2.6104536649999659
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Enguia Pecém",
+    "UF1": "CE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 14760,
+    "INIC_OPER": 1019088000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1805,
+    "CEG": "UTEPECE028533-1"
+   },
+   "geometry": {
+    "x": -38.873827337999955,
+    "y": -3.5827573199999279
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Porto do Pecém II",
+    "UF1": "CE",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 365000,
+    "INIC_OPER": 1382054400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1806,
+    "CEG": "UTE.CM.CE.030098-5.01"
+   },
+   "geometry": {
+    "x": -38.866090109999959,
+    "y": -3.5918429979999473
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jesus Soares Pereira (Antiga Vale do Açú)",
+    "UF1": "RN",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 322967.15000000002,
+    "INIC_OPER": 1221004800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1807,
+    "CEG": "UTE.GN.RN.028225-1.01"
+   },
+   "geometry": {
+    "x": -36.818611112999974,
+    "y": -5.3824999999999363
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Cidade Nova",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 17600,
+    "INIC_OPER": 1222387200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1808,
+    "CEG": "UTE.PE.AM.028923-0.01"
+   },
+   "geometry": {
+    "x": -59.959186436999971,
+    "y": -3.0241029919999391
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jorge Lacerda III",
+    "UF1": "SC",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 262000,
+    "INIC_OPER": 286675200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1809,
+    "CEG": "UTE.CM.SC.027093-8.01"
+   },
+   "geometry": {
+    "x": -48.960574996999981,
+    "y": -28.449046107999948
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Rio Branco II",
+    "UF1": "AC",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 32725,
+    "INIC_OPER": 315532800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1810,
+    "CEG": "UTEPEAC027125-0"
+   },
+   "geometry": {
+    "x": -67.828867886999944,
+    "y": -9.964620775999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "UGPU",
+    "UF1": "SP",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 7700,
+    "INIC_OPER": 946684800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1811,
+    "CEG": "UTE.GN.SP.027391-0.01"
+   },
+   "geometry": {
+    "x": -46.874534553999979,
+    "y": -23.182009665999942
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Energy Works Kaiser Pacatuba",
+    "UF1": "CE",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 5552,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1812,
+    "CEG": "UTEGNCE000806-0"
+   },
+   "geometry": {
+    "x": -38.608024221999983,
+    "y": -3.9118737989999772
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Abunã",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3180,
+    "INIC_OPER": 941414400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1813,
+    "CEG": "UTE.PE.RO.000017-5.01"
+   },
+   "geometry": {
+    "x": -65.363312331999964,
+    "y": -9.6868429979999746
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Calçoene",
+    "UF1": "AP",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1296,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1814,
+    "CEG": "UTEPEAP000600-9"
+   },
+   "geometry": {
+    "x": -50.939534553999977,
+    "y": 2.5019903350000732
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Campinas",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 340,
+    "INIC_OPER": 857174400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1815,
+    "CEG": "UTEPEAM000614-9"
+   },
+   "geometry": {
+    "x": -60.611534553999945,
+    "y": -3.2960096649999286
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Canutama",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2080,
+    "INIC_OPER": 736214400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1816,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -64.374145553999938,
+    "y": -6.530453664999925
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Itamarati",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2210,
+    "INIC_OPER": 1028160000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1817,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -68.236645553999949,
+    "y": -6.4354536649999545
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Monte Cristo",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 97200,
+    "INIC_OPER": 1438128000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1818,
+    "CEG": "UTE.PE.RR.031982-1.01"
+   },
+   "geometry": {
+    "x": -60.670533055999954,
+    "y": 2.8166819440000381
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Querência do Norte",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3626,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1819,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -52.206090109999934,
+    "y": -12.597676331999935
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Marambaia",
+    "UF1": "PI",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 13120,
+    "INIC_OPER": 1027900800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1820,
+    "CEG": "UTE.PE.PI.028535-8.01"
+   },
+   "geometry": {
+    "x": -42.781645553999965,
+    "y": -4.8612876649999635
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Belo Monte",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 90,
+    "INIC_OPER": 1141171200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1821,
+    "CEG": "UTE.PE.AM.029491-8.01"
+   },
+   "geometry": {
+    "x": -64.373534553999946,
+    "y": -6.5300096649999659
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Aracati",
+    "UF1": "CE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 11480,
+    "INIC_OPER": 1019692800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1822,
+    "CEG": "UTEPECE028531-5"
+   },
+   "geometry": {
+    "x": -37.770012415999929,
+    "y": -4.5530869079999547
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Urucará",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3750,
+    "INIC_OPER": 1157068800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1823,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -57.751090553999973,
+    "y": -2.530731664999962
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Goiânia II",
+    "UF1": "GO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 140000,
+    "INIC_OPER": 1232150400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1824,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -49.229978997999979,
+    "y": -16.789898554999979
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Maranhão IV (Antiga MC2 Joinville)",
+    "UF1": "SC",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 337600,
+    "INIC_OPER": 1359676800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1825,
+    "CEG": "UTEGNMA030202-3"
+   },
+   "geometry": {
+    "x": -48.878528997999979,
+    "y": -26.287517998999931
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Pau Ferro I",
+    "UF1": "PE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 94080,
+    "INIC_OPER": 1245283200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1826,
+    "CEG": "UTE.PE.PE.029561-2.01"
+   },
+   "geometry": {
+    "x": -35.009367886999939,
+    "y": -7.8567874429999733
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santana do Araguaia",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 4500,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1827,
+    "CEG": "UTEPEPA026781-3"
+   },
+   "geometry": {
+    "x": -50.323867886999949,
+    "y": -9.3390652209999416
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Macaíba (Antiga Termo Toalia)",
+    "UF1": "RN",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 5680,
+    "INIC_OPER": 1215648000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1828,
+    "CEG": "UTE.GN.RN.028324-0.01"
+   },
+   "geometry": {
+    "x": -35.344534553999949,
+    "y": -5.8540096649999782
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Boca do Acre",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 7641,
+    "INIC_OPER": 899251200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1829,
+    "CEG": "UTEPEAM000274-7"
+   },
+   "geometry": {
+    "x": -67.309423553999977,
+    "y": -8.7640656649999755
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Moura",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 240,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1830,
+    "CEG": "UTE.PE.AM.029323-7.01"
+   },
+   "geometry": {
+    "x": -62.925669999999968,
+    "y": 0.97280111500003841
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Pimenta Bueno",
+    "UF1": "RO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 13000,
+    "INIC_OPER": 354931200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1831,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -61.174978553999949,
+    "y": -11.683231664999937
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Nhamundá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2500,
+    "INIC_OPER": 702086400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1832,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -56.709431775999974,
+    "y": -2.2010179979999407
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Equador",
+    "UF1": "RR",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 281,
+    "INIC_OPER": 1062374400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1833,
+    "CEG": "UTEPERR000893-1"
+   },
+   "geometry": {
+    "x": -60.566388700999937,
+    "y": 0.13527761400007421
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Figueira",
+    "UF1": "PR",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 20000,
+    "INIC_OPER": -220924800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1834,
+    "CEG": "UTE.CM.PR.000955-5.01"
+   },
+   "geometry": {
+    "x": -50.380812553999931,
+    "y": -23.848231665999947
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Barreirinha",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 2982,
+    "INIC_OPER": 702086400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1835,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -57.05692355399998,
+    "y": -2.8023986649999415
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Rômulo Almeida Unidade I (Antiga Usina de Cogeração Camaçari - FAFEN Energia)",
+    "UF1": "BA",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 138020,
+    "INIC_OPER": 1066003200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1836,
+    "CEG": "UTE.GN.BA.028206-5.01"
+   },
+   "geometry": {
+    "x": -38.325740000999929,
+    "y": -12.69881694299994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Juruena",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3826.8200000000002,
+    "INIC_OPER": 1051747200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1837,
+    "CEG": "UTE.PE.MT.001284-0.01"
+   },
+   "geometry": {
+    "x": -58.582134553999936,
+    "y": -10.35908967599994
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Caucaia",
+    "UF1": "CE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 14760,
+    "INIC_OPER": 1019260800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1838,
+    "CEG": "UTEPECE028528-5"
+   },
+   "geometry": {
+    "x": -38.64339191199997,
+    "y": -3.7327418719999628
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Maranhão V (Antiga MC2 João Neiva)",
+    "UF1": "ES",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 337600,
+    "INIC_OPER": 1364515200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1839,
+    "CEG": "UTEGNMA030203-1"
+   },
+   "geometry": {
+    "x": -40.376534553999932,
+    "y": -19.754009665999945
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Jutaí",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3197,
+    "INIC_OPER": 893980800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1840,
+    "CEG": "UTE.PE.AM.001288-2.01"
+   },
+   "geometry": {
+    "x": -66.758867553999949,
+    "y": -2.7382316649999439
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santa Maria das Barreiras",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1112,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1841,
+    "CEG": "UTE.PE.PA.026722-8.01"
+   },
+   "geometry": {
+    "x": -49.72192344299998,
+    "y": -8.8404541089999498
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Suape, CGDe, Koblitz Energia Ltda.",
+    "UF1": "PE",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 4000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1842,
+    "CEG": "UTEGNPE002780-4"
+   },
+   "geometry": {
+    "x": -35.025534553999933,
+    "y": -8.2830096649999518
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Cametá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 429,
+    "INIC_OPER": 715305600000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1843,
+    "CEG": "UTE.PE.AM.002998-0.01"
+   },
+   "geometry": {
+    "x": -57.060534553999958,
+    "y": -2.7890096649999805
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Porto do Itaqui (Antiga Termomaranhão)",
+    "UF1": "MA",
+    "COMBUST": "Carvão Mineral",
+    "P_OUT_KW": 360137,
+    "INIC_OPER": 1360022400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1844,
+    "CEG": "UTE.CM.MA.029700-3.01"
+   },
+   "geometry": {
+    "x": -44.296090109999966,
+    "y": -2.5246207759999493
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Santa Cruz do Arari",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 720,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1845,
+    "CEG": "UTE.PE.PA.026705-8.01"
+   },
+   "geometry": {
+    "x": -49.170812331999969,
+    "y": -0.7143429979999496
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Vila Caiambé",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 420,
+    "INIC_OPER": 915148800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1846,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -64.398034553999935,
+    "y": -3.5165656649999733
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Borba",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 5600,
+    "INIC_OPER": 880934400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1847,
+    "CEG": " "
+   },
+   "geometry": {
+    "x": -59.525054553999951,
+    "y": -4.953189664999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Ipiranga",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 288,
+    "INIC_OPER": 157766400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1848,
+    "CEG": "UTEPEAM001138-0"
+   },
+   "geometry": {
+    "x": -69.686923553999975,
+    "y": -2.926842664999981
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Amaturá",
+    "UF1": "AM",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 1920,
+    "INIC_OPER": 891388800000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1849,
+    "CEG": "UTEPEAM000087-6"
+   },
+   "geometry": {
+    "x": -68.287352831999954,
+    "y": -3.4181757449999282
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Apiacás",
+    "UF1": "MT",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 3148,
+    "INIC_OPER": 1142208000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1850,
+    "CEG": "UTEPEMT000114-7"
+   },
+   "geometry": {
+    "x": -57.825488542999949,
+    "y": -8.7531774339999515
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "São Miguel",
+    "UF1": "PA",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 259.19999999999999,
+    "INIC_OPER": 1072915200000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1851,
+    "CEG": "UTE.PE.PA.026875-5.01"
+   },
+   "geometry": {
+    "x": -52.576834998999971,
+    "y": -1.5273388879999743
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Baturité",
+    "UF1": "CE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 11480,
+    "INIC_OPER": 1019174400000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1852,
+    "CEG": "UTEPECE028529-3"
+   },
+   "geometry": {
+    "x": -38.875534553999955,
+    "y": -4.3246207759999606
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Luiz Carlos Prestes (Antiga Três Lagoas)",
+    "UF1": "MS",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 385819,
+    "INIC_OPER": 1073520000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1853,
+    "CEG": "UTE.GN.MS.027975-7.01"
+   },
+   "geometry": {
+    "x": -51.654145553999967,
+    "y": -20.741009665999968
+   }
+  },
+  {
+   "attributes": {
+    "Nome": "Xavantes Aruanã",
+    "UF1": "GO",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 53576,
+    "INIC_OPER": 1026864000000,
+    "ESTAGIO": "Operação",
+    "OBJECTID": 1854,
+    "CEG": "UTE.PE.GO.028654-0.01"
+   },
+   "geometry": {
+    "x": -49.257499973999984,
+    "y": -16.581666945999928
+   }
+  }
+ ]
+}

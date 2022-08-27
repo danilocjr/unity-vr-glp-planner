@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3716499191609892862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4663595188876942289}
+  - component: {fileID: 5101269502962529125}
+  m_Layer: 14
+  m_Name: CustomPipeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4663595188876942289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3716499191609892862}
+  m_LocalRotation: {x: -0.4773228, y: -0.47732267, z: -0.5216925, w: 0.5216925}
+  m_LocalPosition: {x: -0.008000009, y: -0.088014305, z: 0.026383303}
+  m_LocalScale: {x: 6.369914, y: 6.3699174, z: 6.3699145}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5101269502962529125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3716499191609892862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afaf77f6ac80acc4d87ab28ffe6fa940, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Material: {fileID: 2100000, guid: 73d17dda7927843e98268f08597dd6e0, type: 2}
+  PipeSettings:
+    AutoBuild: 1
+    CornersDetail:
+      Size: 0.01
+      Steps: 5
+      Larger: 0
+    FlangeDetail:
+      Flange: 1
+      Length: 0.015
+      Interval: 0.3
+      Size: 0.005
+    CollisionDetails:
+      Style: 0
+    InsidePipe: 0
+    Radius: 0.007
+    Sides: 6
+    UVModifier: 1
